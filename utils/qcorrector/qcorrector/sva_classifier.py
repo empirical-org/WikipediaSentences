@@ -1,22 +1,15 @@
 import os
-import psycopg2
+import csv
 import textacy
 from pattern.en import conjugate,tenses
 from reducer_helper import get_reduction, load_predictor
 from alt_sentences import get_alt_sentences
 
-# Connect to the database
-try:
-    DB_NAME = os.environ.get('SVA_DB_NAME', 'sva')
-    DB_PASSWORD = os.environ.get('SVA_DB_PASS', '')
-    DB_USER = os.environ.get('SVA_DB_USER', 'etang')
-except KeyError as e:
-    print('important environment variables were not set')
-    raise Exception('Warning: Important environment variables were not set')
-conn = psycopg2.connect(dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, host='localhost')
-cur = conn.cursor()
-cur.execute("""SELECT SUM(count) FROM reductions_to_count_tmp""")
-num_reductions = cur.fetchone()[0]
+# Load reduction_counts dictionary
+with open('reduction_counts.csv', 'r') as infile:
+    csv_reader = csv.DictReader(infile)
+    reduction_dict = {row['reduction']:int(row['count']) for row in csv_reader}
+num_reductions = sum(reduction_dict.values())
 
 # Load AllenNLP Model
 predictor = load_predictor(path="/var/lib/allennlp/elmo-constituency-parser-2018.03.14.tar.gz")
@@ -63,11 +56,11 @@ def get_feedback(sentence):
     return result
 
 def get_count(reduction):
-    cur.execute("""SELECT count FROM reductions_to_count_tmp WHERE
-                    reduction=%s""", (reduction, ))
-    row = cur.fetchone()
-    return row[0]/num_reductions if row else 0
-
+    """Returns frequency of reduction in training data
+    Return value is between 0 and 1, scaled by total number of reductions
+    Returns 0 if no reduction found in dict
+    """
+    return reduction_dict.get(reduction, 0)/num_reductions
 
 def get_tense_and_aspect(verb):
     t = tenses(verb)

@@ -1,6 +1,6 @@
 """Tests sva_classifier. Sparse set of tests."""
 import unittest
-from check import check, Feedback
+from __init__ import check, Feedback
 
 class TestClassifierMethods(unittest.TestCase):
 
