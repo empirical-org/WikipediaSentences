@@ -1,18 +1,24 @@
 """Tests sva_classifier. Sparse set of tests."""
 import unittest
-from __init__ import check, Feedback
+from __init__ import check
 
 class TestClassifierMethods(unittest.TestCase):
 
     def test_check_sva_feedback(self):
-        sent = "The girl run incredibly fast."
-        actual_fb = check(sent)
-        self.assertEqual(actual_fb.primary_error, 'SUBJECT_VERB_AGREEMENT_ERROR')
+        feedback = check("The girl run incredibly fast.")
+        self.assertEqual(feedback.primary_error, 'SUBJECT_VERB_AGREEMENT_ERROR')
 
     def test_check_spelling_feedback(self):
-        sent = "The scientest made a spelling mistake."
-        actual_fb = check(sent)
-        self.assertEqual(actual_fb.primary_error, 'SPELLING_ERROR')
+        feedback = check("The scientest made a spelling mistake.")
+        self.assertEqual(feedback.primary_error, 'SPELLING_ERROR')
+
+    def test_check_other_language_tool_feedback(self):
+        feedback = check("He would love to swims today.")
+        self.assertEqual(feedback.primary_error, 'OTHER_ERROR')
+
+    def test_check_strong_sentence_feedback(self):
+        feedback = check("This is a strong sentence.")
+        self.assertEqual(feedback.primary_error, None)
 
 if __name__ == '__main__':
     unittest.main()
