@@ -1,0 +1,68 @@
+{% extends "layout.html" %}
+{% block body %}
+  <script>
+  $(document).ready(function() {
+    table = $('#submissions_table').DataTable( {
+        "processing": true,
+        "serverSide": true,
+        "ajax": {
+            "url": "http://localhost:5000/submissions.json",
+            "data": function ( d ) {
+                d.correct_filter = $('#show_correct_dropdown').val();
+            }
+        },
+        "columnDefs": [
+          {
+            "targets": [ 3 ],
+            "visible": false,
+            "searchable": false
+          }
+        ],
+        "fnCreatedRow": function( nRow, aData, iDataIndex ) {
+          // Bold the grade for all 'A' grade browsers
+          if ( aData[3] == true )
+          {
+            $('td:eq(1)', nRow).css('color', 'green');
+          }
+          else {
+            $('td:eq(1)', nRow).css('color', 'red');
+          }
+        }
+    } );
+    $('#show_correct_dropdown').change( function() {
+        table.draw();
+    } );
+  } );
+  </script>
+  <table border="0" cellspacing="5" cellpadding="5">
+    <tbody>
+      <tr>
+        <td><select id="show_correct_dropdown" name="show_correct_dropdown" >
+          <option value="all">Show correct and incorrect</option>
+          <option value="correct">Show correct only</option>
+          <option value="incorrect">Show incorrect only</option>
+        </select></td>
+      </tr>
+    </tbody>
+  </table>
+  <table id="submissions_table" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>id</th>
+        <th>Submission</th>
+        <th>ERROR</th>
+        <th>correct</th>
+      </tr>
+    </thead>
+    <tfoot>
+      <tr>
+        <th>id</th>
+        <th>Submission</th>
+        <th>ERROR</th>
+        <th>correct</th>
+      </tr>
+    </tfoot>
+  </table>
+
+
+{% endblock %}

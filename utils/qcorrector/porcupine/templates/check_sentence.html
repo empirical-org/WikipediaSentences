@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block body %}
+  <form action="{{ url_for('check_sentence') }}" method="post" class="add-entry">
+    <dl>
+      <dd><textarea name="text" rows="5" cols="40" >{{ text }}</textarea>
+      <dd><input type="checkbox" name="is_correct" value="correct">This sentence is correct
+      <dd><input type="submit" value="Check" name="check">
+    </dl>
+  </form>
+  <p>Try typing in a sentence or fragment like,</p>
+  <ul>
+    <li><i>The scientist mix the potion.</i></li>
+    <li><i>The scien mixes the potion.</i></li>
+    <li><i>Worrying that a meteor or chunk of space debris will conk her on the head.</i></li>
+    <li><i>As his ex-girlfriend Sammy chased him down the interstate.</i></li>
+    <li><i>In the times of Moses, people were shorter and was fatter.</i></li>
+    <li><i>We have been away so long.</i></li>
+    <li><i>The alligator eat the people</i></li>
+    <li><i>The alligators eated the people.</i></li>
+    <li><i>When we was younger we swimmed a lot.</i></li>
+    <li><i>James be my best friend.</i></li>
+    <li><i>James, will you be my best friend?</i></li>
+    <li><i>Man Boy are the most powerful member of the lightning squad, besides Woman Girl who explode more buildings with her ray gun than even Boku.</i></li>
+  </ul>
+
+{% endblock %}

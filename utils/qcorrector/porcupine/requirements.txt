@@ -1,0 +1,15 @@
+allennlp==0.5.1
+flask==0.12.2
+gunicorn==19.7.1
+sqlalchemy==1.2.6
+nltk==3.2.5
+numpy==1.14.2
+pandas==0.19.2
+pathlib==1.0.1
+psycopg2==2.7.5
+git+git://github.com/clips/pattern.git@53245196139c6ef26dc9c34873dda8a16f236d23#egg=Pattern
+requests==2.18.4
+spacy==2.0.12
+tensorflow==1.5.1
+textacy==0.6.2
+tflearn==0.3.2
