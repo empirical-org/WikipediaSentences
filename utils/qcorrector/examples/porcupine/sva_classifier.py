@@ -1,10 +1,9 @@
-#TODO: Move this file to another folder
+import os
+import psycopg2
+import textacy
+from pattern.en import conjugate,tenses
 from reducer_helper import get_reduction, load_predictor
 from alt_sentences import get_alt_sentences
-import psycopg2
-import os
-from pattern.en import conjugate,tenses
-import textacy
 
 # Connect to the database
 try:
