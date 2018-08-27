@@ -1,6 +1,6 @@
 """Tests sva_classifier. Sparse set of tests."""
 import unittest
-from __init__ import check
+from porcupine import check
 
 class TestClassifierMethods(unittest.TestCase):
 
