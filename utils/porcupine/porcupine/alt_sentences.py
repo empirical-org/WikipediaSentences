@@ -1,7 +1,7 @@
-from pattern.en import conjugate,tenses
 import itertools
 import textacy
-from pseudo_verbs import pseudo_verbs
+from pattern.en import conjugate,tenses
+from .pseudo_verbs import pseudo_verbs
 
 def permute_sentence(s, alt_verbs):
     '''

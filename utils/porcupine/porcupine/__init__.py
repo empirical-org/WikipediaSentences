@@ -10,10 +10,10 @@ import tensorflow as tf
 import tflearn
 from nltk.util import ngrams, trigrams
 from pattern.en import conjugate
-from feedback import *
-from infinitive_phrase_detect import (detect_infinitive_phrase,
+from .feedback import *
+from .infinitive_phrase_detect import (detect_infinitive_phrase,
         detect_missing_verb)
-from sva_classifier import get_feedback as get_subject_verb_agreement_feedback
+from .sva_classifier import get_feedback as get_subject_verb_agreement_feedback
 
 model_name = os.environ.get('QUILL_SPACY_MODEL', 'en_core_web_lg')
 if model_name != 'en_core_web_lg':

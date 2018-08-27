@@ -2,8 +2,8 @@ import json
 from collections import Counter
 from pattern.en import mood,lemma,tenses
 from hashlib import sha256
-import top100
-import literals
+import porcupine.top100
+import porcupine.literals
 
 TEST_DATA='../test/data/sentences.json'
 

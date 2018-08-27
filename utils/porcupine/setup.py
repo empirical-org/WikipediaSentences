@@ -10,6 +10,7 @@ setup(name='porcupine',
       packages=['porcupine'],
       install_requires=[
         'allennlp==0.5.1',
+        'en_core_web_lg==2.0.0',
         'flask==0.12.2',
         'gunicorn==19.7.1',
         'nltk==3.2.5',
@@ -25,7 +26,7 @@ setup(name='porcupine',
         'tflearn==0.3.2'
       ],
       dependency_links = [
-        'https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.0.0/en_core_web_lg-2.0.0.tar.gz#egg=en_core_web_lg==2.0.0',
+        'https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.0.0/en_core_web_lg-2.0.0.tar.gz#egg=en_core_web_lg-2.0.0',
         'https://github.com/clips/pattern/tarball/53245196139c6ef26dc9c34873dda8a16f236d23#egg=pattern-3.0beta',
       ],
       tests_require=['pytest'],

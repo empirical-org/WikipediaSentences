@@ -1,6 +1,6 @@
 from allennlp.predictors import Predictor
-from subject_verb_extraction import get_subject_verb_pairs
-import subjects_with_verbs_to_reductions
+from .subject_verb_extraction import get_subject_verb_pairs
+from .subjects_with_verbs_to_reductions import get_reduction as get_reduction_from_pair
 
 def load_predictor(path="/var/lib/allennlp/elmo-constituency-parser-2018.03.14.tar.gz"):
     """
@@ -17,4 +17,4 @@ def get_reduction(sent, predictor):
     Takes a sentence and AllenNLP predictor, returns list of sentence reductions
     """
     subject_verb_pairs = get_subject_verb_pairs(sent, predictor)
-    return [subjects_with_verbs_to_reductions.get_reduction(pair, sent) for pair in subject_verb_pairs]
+    return [get_reduction_from_pair(pair, sent) for pair in subject_verb_pairs]

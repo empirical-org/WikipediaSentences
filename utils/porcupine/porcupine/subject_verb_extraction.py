@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """ Tools for extracting subject-verb pairs from sentences """
 from nltk.tree import Tree
-from preprocess_utils import preprocess_sent
+from .preprocess_utils import preprocess_sent
 
 
 # MARK: Extract pairs from sentence
