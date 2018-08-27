@@ -2,17 +2,17 @@ import json
 from collections import Counter
 from pattern.en import mood,lemma,tenses
 from hashlib import sha256
-import porcupine.top100
-import porcupine.literals
+from .top100 import verbs as top100_verbs
+from .literals import verbs as literals_verbs
 
 TEST_DATA='../test/data/sentences.json'
 
 def get_verb_reduction(verb, tag):
     """Given string of existing verb, returns its corresponding reduction
     That's the verb itself if its lemma is in the top100, else its hash"""
-    if lemma(verb.lower()) in literals.verbs:
+    if lemma(verb.lower()) in top100_verbs:
         return verb.upper()
-    if lemma(verb.lower()) in top100.verbs:
+    if lemma(verb.lower()) in literals_verbs:
         return verb.upper()
     else:
         h = sha256(str(tenses(verb)).encode('utf_8')).hexdigest()
