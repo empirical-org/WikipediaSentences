@@ -27,7 +27,7 @@ __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file
 
 LT_SERVER = \
         '{}/v2/check'.format(os.environ.get('LT_URI','http://localhost:8081'))
-_PARTICIPLE_TRIGRAM_INDEX = os.path.join(__location__, 'participlevocabindex.csv')
+_PARTICIPLE_TRIGRAM_INDEX = os.path.join(__location__, 'data', 'participlevocabindex.csv')
 _PARTICIPLE_MODEL = os.path.join(__location__, 'models', 'participle_model.tfl')
 
 class Feedback(object):
@@ -118,7 +118,7 @@ models = {}
 trigram2idx = {}
 trigram_count = {}
 for prefix in prefixes:
-    _trigram_index = os.path.join(__location__,
+    _trigram_index = os.path.join(__location__, 'data',
             '{}vocabindex.csv'.format(prefix))
     trigram2idx[prefix], trigram_count[prefix] = _build_trigram_indices(_trigram_index)
     models[prefix] = _build_model(trigram_count[prefix])

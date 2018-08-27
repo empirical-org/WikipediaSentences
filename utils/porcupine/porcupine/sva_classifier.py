@@ -6,9 +6,8 @@ from .reducer_helper import get_reduction, load_predictor
 from .alt_sentences import get_alt_sentences
 
 # Load reduction_counts dictionary
-rel_path = "reduction_counts.csv"
-script_dir = os.path.dirname(__file__)
-with open(os.path.join(script_dir, rel_path), 'r') as infile:
+__location__ = os.path.dirname(__file__)
+with open(os.path.join(__location__, 'data', 'reduction_counts.csv'), 'r') as infile:
     csv_reader = csv.DictReader(infile)
     reduction_dict = {row['reduction']:int(row['count']) for row in csv_reader}
 num_reductions = sum(reduction_dict.values())
