@@ -96,3 +96,12 @@ and set
 ```bash
 export QUILL_SPACY_MODEL=<SPACY_MODEL_NAME>
 ```
+
+## Tests
+
+QPorcupine uses `nose` to run tests. To run tests from the root directory of qporcupine:
+
+```bash
+$ pip install nose
+$ nosetests
+```
