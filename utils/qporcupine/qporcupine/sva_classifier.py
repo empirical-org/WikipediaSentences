@@ -33,6 +33,8 @@ def get_feedback(sentence):
     result = Feedback()
     alt_sentences = get_alt_sentences(sentence)
     reductions = get_reduction(sentence, predictor)
+    if not reductions:
+        return None # No reductions, no response
     reduction_counts = [get_count(r) for r in reductions]
     score = sum(reduction_counts)
     alt_score = 0

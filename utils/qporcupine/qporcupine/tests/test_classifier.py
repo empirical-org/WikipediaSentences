@@ -12,6 +12,14 @@ class TestClassifierMethods(unittest.TestCase):
         feedback = check("The scientest made a spelling mistake.")
         self.assertEqual(feedback.primary_error, 'SPELLING_ERROR')
 
+    def test_subordinate_fragment_feedback(self):
+        feedback = check("After Gabriel ate half a box of doughnuts.")
+        self.assertEqual(feedback.specific_error, 'SUBORDINATE_CLAUSE')
+
+    def test_participle_fragment_feedback(self):
+        feedback = check("Worrying about the state of the world.")
+        self.assertEqual(feedback.specific_error, 'PARTICIPLE_PHRASE')
+
     def test_check_other_language_tool_feedback(self):
         feedback = check("He would love to swims today.")
         self.assertEqual(feedback.primary_error, 'OTHER_ERROR')
