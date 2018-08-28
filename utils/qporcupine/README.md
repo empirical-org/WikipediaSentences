@@ -77,6 +77,8 @@ $ cd /var/lib/allennlp && { sudo curl -O https://s3-us-west-2.amazonaws.com/alle
 
 One of qporcupine's dependencies is a development branch of the [Pattern.en](https://www.clips.uantwerpen.be/pattern) library, which is not available through PyPi. Consequently, qporcupine must be installed with the `--process-dependency-links` flag, which will install the necessary dependency.
 
+In some cases, there may be conflicts between this installation of the Pattern library and existing installations of Pattern on your local machine. If so, we suggest uninstalling Pattern and attempting to install qporcupine again.
+
 ```bash
 pip install --process-dependency-links qporcupine
 ```
