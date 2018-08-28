@@ -3,7 +3,7 @@
 A library from Quill.org to provide feedback on common grammar errors. Errors detected include spelling errors, fragments, and subject-verb agreement errors.
 
 
-**NOTE:** This library is currently unstable; please be aware
+**Note:** This library is currently unstable; please be aware
 that updates could include breaking changes.
 
 
