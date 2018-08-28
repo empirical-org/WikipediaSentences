@@ -1,2 +1,3 @@
 include README.md
 include qporcupine/data/*
+include qporcupine/models/*
