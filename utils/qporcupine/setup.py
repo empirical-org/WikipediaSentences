@@ -1,4 +1,10 @@
 from setuptools import setup
+from os import path
+
+# read contents of our README file
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
 
 setup(name='qporcupine',
       version='0.0.1',
@@ -31,4 +37,6 @@ setup(name='qporcupine',
       ],
       tests_require=['pytest'],
       include_package_data=True,
-      zip_safe=False)
+      zip_safe=False,
+      long_description=long_description,
+      long_description_content_type='text/markdown')
