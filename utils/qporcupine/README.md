@@ -1,10 +1,27 @@
 # QPorcupine
 
-A library from Quill.org to provide feedback on common grammar errors.
+A library from Quill.org to provide feedback on common grammar errors. Errors detected include spelling errors, fragments, and subject-verb agreement errors.
 
 
-**NOTE:** This library is currently unstable; be aware
-that all updates could include breaking changes while in development.
+**NOTE:** This library is currently unstable; please be aware
+that updates could include breaking changes.
+
+
+## Usage
+
+As a module:
+```py
+from qporcupine import check
+
+feedback  = check('Until she leapt into the air and kissed him.')
+print(feedback.human_readable)
+```
+
+Expected output:
+```
+This looks like a subordinating conjunction fragment.
+Try removing the subordinating conjunction or adding a main clause.
+```
 
 ## Installation
 
@@ -58,12 +75,15 @@ $ cd /var/lib/allennlp && { sudo curl -O https://s3-us-west-2.amazonaws.com/alle
 
 #### 3. Install qporcupine
 
+One of qporcupine's dependencies is a development branch of the [Pattern.en](https://www.clips.uantwerpen.be/pattern) library, which is not available through PyPi. Consequently, qporcupine must be installed with the `--process-dependency-links` flag, which will install the necessary dependency.
+
 ```bash
 pip install --process-dependency-links qporcupine
 ```
 
-QUILL_SPACY_MODEL is en_core_web_lg by default. If you wish to download another
-model, do so with,
+#### 4. Configure Spacy Language Model (Optional)
+
+qporcupine uses the `en_core_web_lg` Spacy model by default. If you wish to download and configure another model, do so with
 
 ```bash
 python -m spacy download <SPACY MODEL NAME>
@@ -74,17 +94,3 @@ and set
 ```bash
 export QUILL_SPACY_MODEL=<SPACY_MODEL_NAME>
 ```
-
-## Usage
-
-As a module:
-```py
-from qporcupine import check
-
-feedback  = check('Until she leapt into the air and kissed him.')
-print(feedback.human_readable)
-```
-
-Expected output:
-```
-'This looks like a subordinating conjunction fragment. Try removing the subordinating conjunction or adding a main clause.
