@@ -77,13 +77,14 @@ export QUILL_SPACY_MODEL=<SPACY_MODEL_NAME>
 
 ## Usage
 
-As a module,
+As a module:
 ```py
 from qporcupine import check
 
 feedback  = check('Until she leapt into the air and kissed him.')
-
-print(feedback.human_readable) # => This looks like a subordinating conjunction
-                               #    fragment. Try removing the subordinating
-                               #    conjunction or adding a main clause.
+print(feedback.human_readable)
 ```
+
+Expected output:
+```
+'This looks like a subordinating conjunction fragment. Try removing the subordinating conjunction or adding a main clause.
