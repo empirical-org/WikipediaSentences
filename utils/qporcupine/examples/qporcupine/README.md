@@ -1,9 +1,9 @@
-# Porcupine
+# QPorcupine
 
 A minimal website that uses Quill.org's subject-verb agreement (SVA) model to give useful feedback on
 subject-verb agreement errors.
 
-Porcupine is meant to demonstrate the model's functionality.  You can use and
+QPorcupine is meant to demonstrate the model's functionality.  You can use and
 modify it, or play with it to see if Quill's SVA model is right for your application.
 
 

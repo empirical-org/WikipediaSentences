@@ -1,5 +1,5 @@
 <!doctype html>
-<title>Porcupine</title>
+<title>QPorcupine</title>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
 <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='style.css')}}">
@@ -9,7 +9,7 @@
 <div class="page">
   <a href="{{url_for('check_sentence')}}">Home</a>
   <a href="{{url_for('list_submissions')}}">History</a>
-  <h1>Porcupine</h1>
+  <h1>QPorcupine</h1>
   <h4>The easy spelling and grammar checker from Quill.org</h4>
   {% block body %}{% endblock %}
   {% for message in get_flashed_messages() %}

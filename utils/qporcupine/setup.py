@@ -1,13 +1,13 @@
 from setuptools import setup
 
-setup(name='porcupine',
+setup(name='qporcupine',
       version='0.0.1',
       description='Grammar error detection and feedback',
       url='https://github.com/empirical-org/Quill-NLP-Tools-and-Datasets',
       author='Quill.org',
       author_email='max@quill.org',
       license='MIT',
-      packages=['porcupine'],
+      packages=['qporcupine'],
       install_requires=[
         'allennlp==0.5.1',
         'en_core_web_lg==2.0.0',
