@@ -73,19 +73,31 @@ $ sudo mkdir /var/lib/allennlp
 $ cd /var/lib/allennlp && { sudo curl -O https://s3-us-west-2.amazonaws.com/allennlp/models/elmo-constituency-parser-2018.03.14.tar.gz; cd -;}
 ```
 
-#### 3. Install qporcupine
+#### 3. Install Pattern for Python 3
 
-One of qporcupine's dependencies is a development branch of the [Pattern.en](https://www.clips.uantwerpen.be/pattern) library, which is not available through PyPi. Consequently, qporcupine must be installed with the `--process-dependency-links` flag, which will install the necessary dependency.
+One of qporcupine's dependencies is a development branch of the [Pattern.en](https://www.clips.uantwerpen.be/pattern) library, which is not available through PyPi. Consequently, qporcupine must be directly installed from its Github repo. This can be done with the command
+
+```bash
+$ pip install git+git://github.com/clips/pattern.git@53245196139c6ef26dc9c34873dda8a16f236d23#egg=Pattern
+```
 
 In some cases, there may be conflicts between this installation of the Pattern library and existing installations of Pattern on your local machine. If so, we suggest uninstalling Pattern and attempting to install qporcupine again. You may also need the `--no-cache-dir` flag for `pip install`.
 
+#### 4. Install qporcupine
+
 ```bash
-pip install --process-dependency-links qporcupine
+pip install qporcupine
 ```
 
-#### 4. Configure Spacy Language Model (Optional)
+#### 5. Configure Spacy Language Model
 
-qporcupine uses the `en_core_web_lg` Spacy model by default. If you wish to download and configure another model, do so with
+qporcupine uses the `en_core_web_lg` Spacy model by default. To configure this model, you may have to download the `en_core_web_lg` model from Spacy by running:
+
+```bash
+python -m spacy download en_core_web_lg
+```
+
+If you wish to download and configure another model, do so with
 
 ```bash
 python -m spacy download <SPACY MODEL NAME>
