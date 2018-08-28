@@ -19,7 +19,7 @@ Run the server
 python app.py
 ```
 
-Hit http://localhost:5000 in your browser to ensure it is running.
+Hit http://localhost:10400 in your browser to ensure it is running.
 
 Have fun.
 
