@@ -4,7 +4,7 @@ from typing import List, Dict
 import torch
 import numpy as np
 from tqdm import tqdm_notebook as tqdm, trange
-from torch.nn import Sigmoid
+from torch.nn import Sigmoid, Softmax
 from torch.utils.data import DataLoader
 from quillnlp.models.bert.models import BertForMultiLabelSequenceClassification
 
@@ -48,6 +48,7 @@ def train(model: PreTrainedModel, train_dataloader: DataLoader, dev_dataloader: 
     output_model_file = os.path.join(output_dir, model_file_name)
 
     num_train_steps = int(len(train_dataloader.dataset) / batch_size / gradient_accumulation_steps * num_train_epochs)
+    max_grad_norm = 5
 
     param_optimizer = list(model.named_parameters())
     no_decay = ['bias', 'LayerNorm.bias', 'LayerNorm.weight']
@@ -89,7 +90,7 @@ def train(model: PreTrainedModel, train_dataloader: DataLoader, dev_dataloader: 
                 optimizer.zero_grad()
                 global_step += 1
 
-        dev_loss, _, _ = evaluate(model, dev_dataloader, device)
+        dev_loss, _, _, _ = evaluate(model, dev_dataloader, device)
 
         print("Loss history:", loss_history)
         print("Dev loss:", dev_loss)
@@ -126,7 +127,7 @@ def evaluate(model: PreTrainedModel, dataloader: DataLoader, device: str) -> (in
 
     eval_loss = 0
     nb_eval_steps = 0
-    predicted_labels, correct_labels = [], []
+    predicted_labels, correct_labels, probabilities = [], [], []
 
     for step, batch in enumerate(tqdm(dataloader, desc="Evaluation iteration")):
         batch = tuple(t.to(device) for t in batch)
@@ -140,9 +141,10 @@ def evaluate(model: PreTrainedModel, dataloader: DataLoader, device: str) -> (in
                 tmp_eval_loss, logits = model(input_ids, attention_mask=input_mask, labels=label_ids)
 
         if type(model) == BertForSequenceClassification or type(model) == DistilBertForSequenceClassification:
-            outputs = np.argmax(logits.to('cpu'), axis=1)
+            softmax = Softmax()
+            outputs = softmax(logits.to('cpu'))
             label_ids = label_ids.to('cpu').numpy()
-            predicted_labels += list(outputs)
+            predicted_labels += list(np.argmax(outputs, axis=1))
 
         elif type(model) == BertForMultiLabelSequenceClassification:
             sig = Sigmoid()
@@ -150,7 +152,8 @@ def evaluate(model: PreTrainedModel, dataloader: DataLoader, device: str) -> (in
             label_ids = label_ids.to('cpu').numpy()
             predicted_labels += list(outputs >= 0.5)
 
-        correct_labels += list(label_ids)
+        correct_labels.extend(list(label_ids))
+        probabilities.extend(list(outputs))
 
         eval_loss += tmp_eval_loss.mean().item()
         nb_eval_steps += 1
@@ -160,5 +163,5 @@ def evaluate(model: PreTrainedModel, dataloader: DataLoader, device: str) -> (in
     correct_labels = np.array(correct_labels)
     predicted_labels = np.array(predicted_labels)
 
-    return eval_loss, correct_labels, predicted_labels
+    return eval_loss, probabilities, correct_labels, predicted_labels
 

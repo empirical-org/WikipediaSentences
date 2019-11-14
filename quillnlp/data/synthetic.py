@@ -27,7 +27,8 @@ def generate_synthetic_data(items: List[Dict], lang: str) -> List[Dict]:
         back_translation = translate_client.translate(translation["translatedText"],
                                                       target_language="en")
 
-        translated_items.append({"text": back_translation["translatedText"],
+        translated_items.append({"source_text": item["text"],
+                                 "text": back_translation["translatedText"],
                                  "label": item["label"]})
 
     return translated_items
