@@ -2,9 +2,16 @@ import torch
 import numpy as np
 from torch.utils.data import TensorDataset, DataLoader
 from typing import List, Dict, Union
+from enum import Enum
 
 from transformers.tokenization_bert import BertTokenizer
 from transformers.tokenization_distilbert import DistilBertTokenizer
+
+
+class NLPTask(Enum):
+    SINGLE_LABEL_CLASSIFICATION = "single-label classification"
+    MULTI_LABEL_CLASSIFICATION = "multi-label classification"
+    SEQUENCE_LABELING = "sequence labeling"
 
 
 class BertInputItem(object):
@@ -15,19 +22,19 @@ class BertInputItem(object):
         input_ids: the ids of the input tokens
         input_mask: a list of booleans that indicates what tokens should be masked
         segment_ids: a list of segment ids for the tokens
-        label_id: a label id or a list of label ids for the input
+        label_ids: a label id or a list of label ids for the input
     """
 
     def __init__(self, text: str,
                  input_ids: List[int],
                  input_mask: List[int],
                  segment_ids: List[int],
-                 label_id: Union[int or List[int]]):
+                 label_ids: Union[int or List[int]]):
         self.text = text
         self.input_ids = input_ids
         self.input_mask = input_mask
         self.segment_ids = segment_ids
-        self.label_id = label_id
+        self.label_ids = label_ids
 
 
 def create_label_vocabulary(data: List[Dict]) -> Dict:
@@ -56,7 +63,8 @@ def create_label_vocabulary(data: List[Dict]) -> Dict:
 
 
 def convert_data_to_input_items(examples: List[Dict], label2idx: Dict,
-                                max_seq_length: int, tokenizer: BertTokenizer) -> List[BertInputItem]:
+                                max_seq_length: int, tokenizer: BertTokenizer,
+                                task: NLPTask) -> List[BertInputItem]:
     """
     Converts a list of input examples to BertInputItems
 
@@ -65,6 +73,7 @@ def convert_data_to_input_items(examples: List[Dict], label2idx: Dict,
         label2idx: a dict that maps label strings to label ids
         max_seq_length: the maximum sequence length for the input items
         tokenizer: the tokenizer that will be used to tokenize the text
+        task: the type of NLP task
 
     Returns: a list of BertInputItems
 
@@ -74,44 +83,129 @@ def convert_data_to_input_items(examples: List[Dict], label2idx: Dict,
     for (ex_index, ex) in enumerate(examples):
 
         # Create a list of token ids
-        input_ids = tokenizer.encode("[CLS] " + ex["text"] + " [SEP]")
-        if len(input_ids) > max_seq_length:
-            input_ids = input_ids[:max_seq_length]
+        toks = tokenizer.encode_plus(ex["text"], max_length=max_seq_length, pad_to_max_length=True,
+                                     truncation=True)
+        input_ids = toks["input_ids"]
+        segment_ids = toks["token_type_ids"]
+        input_mask = toks["attention_mask"]
 
-        # All our tokens are in the first input segment (id 0).
-        segment_ids = [0] * len(input_ids)
-
-        # The mask has 1 for real tokens and 0 for padding tokens. Only real
-        # tokens are attended to.
-        input_mask = [1] * len(input_ids)
-
-        # Zero-pad up to the sequence length.
-        padding = [0] * (max_seq_length - len(input_ids))
-        input_ids += padding
-        input_mask += padding
-        segment_ids += padding
-
-        assert len(input_ids) == max_seq_length
-        assert len(input_mask) == max_seq_length
-        assert len(segment_ids) == max_seq_length
-
-        if type(ex["label"]) == str:
-            label_id = label2idx[ex["label"]]
-        elif type(ex["label"]) == list:
-            label_id = np.zeros(len(label2idx))
+        if task == NLPTask.SINGLE_LABEL_CLASSIFICATION:
+            label_ids = label2idx[ex["label"]]
+        elif task == NLPTask.MULTI_LABEL_CLASSIFICATION:
+            label_ids = np.zeros(len(label2idx))
             for label in ex["label"]:
-                label_id[label2idx[label]] = 1
+                label_ids[label2idx[label]] = 1
+        elif task == NLPTask.SEQUENCE_LABELING:
+            if "entities" not in ex:
+                label_ids = [label2idx["O"]] * len(input_ids)
+            else:
+                tokens = tokenizer.convert_ids_to_tokens(input_ids)
+                label_ids = [label2idx["O"]]
+                cur_index = 0
+                for num, tok in enumerate(tokens[1:]):
+
+                    if num > 0 and not tok.startswith("##"):
+                        cur_index += 1
+
+                    found_entity = False
+                    for entity in ex["entities"]:
+                        if cur_index >= entity[0] and cur_index <= entity[1]:
+                            label_ids.append(label2idx[entity[2]])
+                            found_entity = True
+                    if not found_entity:
+                        label_ids.append(label2idx["O"])
+
+                    if tok.startswith("##"):
+                        cur_index += len(tok) - 2
+                    else:
+                        cur_index += len(tok)
+
+            assert len(label_ids) == len(input_ids)
+        else:
+            raise ValueError(f"Unknown NLP Task {task}")
 
         input_items.append(
             BertInputItem(text=ex["text"],
                           input_ids=input_ids,
                           input_mask=input_mask,
                           segment_ids=segment_ids,
-                          label_id=label_id))
+                          label_ids=label_ids))
     return input_items
 
 
-def get_data_loader(input_items: List[BertInputItem], batch_size: int, shuffle: bool=True) -> DataLoader:
+def convert_conll_data_to_input_items(examples: List, label2idx: Dict,
+                                      max_seq_length: int, tokenizer: BertTokenizer,
+                                      task: NLPTask) -> List[BertInputItem]:
+    """
+    Converts a list of input examples to BertInputItems
+
+    Args:
+        examples: a list of examples as dicts of the form {"text": ..., "label": ...}
+        label2idx: a dict that maps label strings to label ids
+        max_seq_length: the maximum sequence length for the input items
+        tokenizer: the tokenizer that will be used to tokenize the text
+        task: the type of NLP task
+
+    Returns: a list of BertInputItems
+
+    """
+
+    input_items = []
+    for (ex_index, ex) in enumerate(examples):
+
+        # Create a list of token ids
+        toks = tokenizer.encode_plus(ex["text"], max_length=max_seq_length, pad_to_max_length=True,
+                                     truncation=True)
+        input_ids = toks["input_ids"]
+        segment_ids = toks["token_type_ids"]
+        input_mask = toks["attention_mask"]
+
+        if task == NLPTask.SINGLE_LABEL_CLASSIFICATION:
+            label_ids = label2idx[ex["label"]]
+        elif task == NLPTask.MULTI_LABEL_CLASSIFICATION:
+            label_ids = np.zeros(len(label2idx))
+            for label in ex["label"]:
+                label_ids[label2idx[label]] = 1
+        elif task == NLPTask.SEQUENCE_LABELING:
+            if "entities" not in ex:
+                label_ids = [label2idx["O"]] * len(input_ids)
+            else:
+                tokens = tokenizer.convert_ids_to_tokens(input_ids)
+                label_ids = [label2idx["O"]]
+                cur_index = 0
+                for num, tok in enumerate(tokens[1:]):
+
+                    if num > 0 and not tok.startswith("##"):
+                        cur_index += 1
+
+                    found_entity = False
+                    for entity in ex["entities"]:
+                        if cur_index >= entity[0] and cur_index <= entity[1]:
+                            label_ids.append(label2idx[entity[2]])
+                            found_entity = True
+                    if not found_entity:
+                        label_ids.append(label2idx["O"])
+
+                    if tok.startswith("##"):
+                        cur_index += len(tok) - 2
+                    else:
+                        cur_index += len(tok)
+
+            assert len(label_ids) == len(input_ids)
+        else:
+            raise ValueError(f"Unknown NLP Task {task}")
+
+        input_items.append(
+            BertInputItem(text=ex["text"],
+                          input_ids=input_ids,
+                          input_mask=input_mask,
+                          segment_ids=segment_ids,
+                          label_ids=label_ids))
+    return input_items
+
+
+def get_data_loader(input_items: List[BertInputItem], batch_size: int,
+                    task: NLPTask, shuffle: bool=True) -> DataLoader:
     """
     Constructs a DataLoader for a list of BERT input items.
 
@@ -126,11 +220,12 @@ def get_data_loader(input_items: List[BertInputItem], batch_size: int, shuffle: 
     all_input_ids = torch.tensor([f.input_ids for f in input_items], dtype=torch.long)
     all_input_mask = torch.tensor([f.input_mask for f in input_items], dtype=torch.long)
     all_segment_ids = torch.tensor([f.segment_ids for f in input_items], dtype=torch.long)
-
-    if type(input_items[0].label_id) == int:
-        all_label_ids = torch.tensor([f.label_id for f in input_items], dtype=torch.long)
-    elif type(input_items[0].label_id) == np.ndarray:
-        all_label_ids = torch.tensor([f.label_id for f in input_items], dtype=torch.float)
+    if task == NLPTask.SINGLE_LABEL_CLASSIFICATION or task == NLPTask.SEQUENCE_LABELING:
+        all_label_ids = torch.tensor([f.label_ids for f in input_items], dtype=torch.long)
+    elif task == NLPTask.MULTI_LABEL_CLASSIFICATION:
+        all_label_ids = torch.tensor([f.label_ids for f in input_items], dtype=torch.float)
+    else:
+        raise ValueError("No data loader for NLPTask {task}")
 
     data = TensorDataset(all_input_ids, all_input_mask, all_segment_ids, all_label_ids)
 
@@ -139,8 +234,10 @@ def get_data_loader(input_items: List[BertInputItem], batch_size: int, shuffle: 
     return dataloader
 
 
-def preprocess(data: List[Dict], model: str,
-               label2idx: Dict, max_seq_length: int) -> List[BertInputItem]:
+def preprocess(data: List[Dict],
+               model: str,
+               label2idx: Dict,
+               max_seq_length: int) -> List[BertInputItem]:
     """
     Runs the full preprocessing pipeline on a list of data items.
 

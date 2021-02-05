@@ -1,6 +1,11 @@
 # Models
 
-A list of the up-to-date Quill generated models:
+Here we save our best models for several NLP tasks. Models are
+stored and versioned with DVC (see also the `data/` directory).
 
-(nothing so far... please be patient while we set up our repository for public
-models)
+- `models/spacy_sva_xl`: spaCy model for subject-verb agreement
+- `models/spacy_3p`: spaCy model for passive, perfect and progressive
+errors
+- `models/spacy_grammar`: spaCy model for other grammar errors
+- `models/spacy_grammar_mix`: spaCy model for all errors that are not covered
+by our rule-based or LM-based approach

@@ -19,8 +19,8 @@ from quillnlp.data.synthetic import generate_synthetic_data
 
 
 @click.command()
-@click.argument('lang', help='The language via which to do the backtranslation')
-@click.argument('filename', help='The input file')
+@click.argument('lang')
+@click.argument('filename')
 def generate(filename, lang):
     with open(filename) as i:
         items = ndjson.load(i)

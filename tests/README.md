@@ -1,4 +1,3 @@
 # Tests
 
-High level tests. Finer grained tests can be included in the modules or units
-that they test the fucntionality for.
+Tests for the main NLP, grammar and opinion functions.

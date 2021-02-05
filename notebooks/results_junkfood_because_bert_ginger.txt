@@ -1,0 +1,1144 @@
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 0.9567450731992722
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722]
+Dev loss: 0.4842611290514469
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469]
+Dev loss: 0.30067725852131844
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844]
+Dev loss: 0.16905153542757034
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034]
+Dev loss: 0.1428666915744543
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543]
+Dev loss: 0.13038687407970428
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428]
+Dev loss: 0.09414299787022173
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173]
+Dev loss: 0.10407350608147681
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681]
+Dev loss: 0.14412910118699074
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074]
+Dev loss: 0.07077258918434381
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381]
+Dev loss: 0.06630531593691558
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381, 0.06630531593691558]
+Dev loss: 0.07370547764003277
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381, 0.06630531593691558, 0.07370547764003277]
+Dev loss: 0.07421503867954016
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381, 0.06630531593691558, 0.07370547764003277, 0.07421503867954016]
+Dev loss: 0.0715448334813118
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381, 0.06630531593691558, 0.07370547764003277, 0.07421503867954016, 0.0715448334813118]
+Dev loss: 0.07150006201118231
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9567450731992722, 0.4842611290514469, 0.30067725852131844, 0.16905153542757034, 0.1428666915744543, 0.13038687407970428, 0.09414299787022173, 0.10407350608147681, 0.14412910118699074, 0.07077258918434381, 0.06630531593691558, 0.07370547764003277, 0.07421503867954016, 0.0715448334813118, 0.07150006201118231]
+Dev loss: 0.15046276897192
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=8, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.9491525423728814, 0.9491525423728814, 0.9491525423728814, None)
+                                                     precision    recall  f1-score   support
+
+        Unhealthy without Diabetes and Risk Factors       0.96      0.97      0.97        75
+                          Diabetes and Risk Factors       1.00      0.90      0.95        29
+Nutritional value without Diabetes and Risk Factors       1.00      0.86      0.92         7
+                           Obesity without Diabetes       0.70      1.00      0.82         7
+
+                                        avg / total       0.96      0.95      0.95       118
+
+Schools should not allow junk food to be sold on campus because it causes major health problems at a developmental stage in kids' lives.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages the eating of unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should be a place to learn about healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it could contribute to an unhealthy lifestyle.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this has been linked to rising obesity rates.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it will increase the rate of obesity and thus diabetes among youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it reduces the accessibility of junk food for students who lack the appropriate information to make healthy choices and encourages healthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can cause Type 2 diabetes, and that is a terrible way to generate income in a school.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because studies prove that providing children junk food leads to adverse health effects.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is little nutritional value and higher levels of obesity in youth leading to higher levels of type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high rise in diabetes and junk food and lack of exercise have proven to be the culprits.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases cases of diseases such as diabetes as well as obesity.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the obesity problem and other health issues that youth are facing today.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children don't have enough self control to buy the healthy option.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's very unhealthy for kids.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has no nutritional value#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for the health of students who typically already do not have a proper diet.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes health issues#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food contributes to poor health, obesity, and even serious diseases like type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to unhealthy behavior and obesity.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they do not have any nutrition value.#Nutritional value without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because by doing this they’ll be making an impact on teen diabetes, and health in general.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for children's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases risks of diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because childhood obesity and diabetes is on the rise, and selling these goods at school enables children to make poor choices.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools are educational institutions and should be taught healthy habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because obesity is climbing every year with young children.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because at that young age, it is hard to understand the value of health and many young people haven't developed a full perception of the "big picture" of life.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy habits, and provides improper nutrition kids need, or should be getting to learn at maximum efficiency.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health and weight.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of long term negative health effects afflicted on the average student.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they might not get healthy eating education at home.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the rate of type 2 diabetes is growing among kids.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high incidence of obesity among youth.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it allows children to make decisions when their parents are not around that may have negative effects on their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes obesity and type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and lifestyles.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the junk food is contributing to the students unhealthiness.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes poor nutrition and increased diabetic tendencies#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they should provide healthier options for students to choose#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it sabotages the health of students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the highest incidents of diabetes among kids in recent years.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to the increase in Type 2 Diabetes among children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making it easier for students to make unhealthy food choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy for children and cause of some decease in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it provides a health risk for children being in the same location.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because too many young people are getting type two diabetes from all the unhealthy eating.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has little nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the link between junk food and poor health in children is well known.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not good for health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to rising obesity rates and type 2 diabetes in children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for school kids to eat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to set an example for healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because more children are eating unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this kind of food can be the cause of health hazard and disease for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because as federally funded institutions, they should promote healthy eating and nutritional values.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because/it is not a healthy meal#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should encourage healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of the school to promote healthy options and make those available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are in the business of educating individuals and health and nutrition should be a part of their educational goals.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they have little to no nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food makes students obese and diabetic.#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they are promoting unhealthy eating and poor health later in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy nutritional habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it creates unhealthy eating habits in kids that then continue on into adulthood.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we should only provide healthy food to the kids except as a special treat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is not good for young people's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does promote unhealthy eating habits which in turn can lead to obesity and diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is related to major health issues, including obesity and heart disease.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is not healthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been proven to be unhealthy, and has little to no nutritional value.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases the risk of diabetes and perpetuates poor health choices#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to health problems, such as Type 2 Diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making our kids obese at an early age.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children need to eat healthy foods to help avoid type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy, can cause type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy in student health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it adds little nutritional value to a student's diet.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we all know the negative effect junk foods have on health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools have a responsibility to teach children to make good health decisions.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this will promote more children to eat unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because its unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because these foods are harmful to the long-term health of their students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the increase in obesity and obesity related diseases.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it creates obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits from a young age.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids need to start healthy habits and school is where they spend a majority of their time.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is contributing to diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can contribute to obesity and diseases such as diabetes in young people.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for development.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for the children.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to eat healthy when they can since they already eat too much junk.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases students' chances of becoming overweight and becoming diabetic.#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and contributing to our obesity problems.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes an unhealthy lifestyle for kids#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because eating junk food is not good for the health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is linked to a rise in diabetes in youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools also have to focus on the health condition of the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because. It causes obesity and diabetes at alarming rates#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthier options to choose from and not be presented with non-healthy options.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the incidence of diabetes is on the rise.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and makes it readily available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it poses an unnecessary risk to the student's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's unhealthy for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of adults to help children learn young what is healthy or not for the betterment of their futures.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does not add much nutritional value to the students as they contain sugar, salts, fats and starch#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+112
+0.9491525423728814
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 0.9214099794626236
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236]
+Dev loss: 0.4376383647322655
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655]
+Dev loss: 0.39943137392401695
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695]
+Dev loss: 0.32991286739706993
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993]
+Dev loss: 0.1747421082109213
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213]
+Dev loss: 0.12314355000853539
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539]
+Dev loss: 0.08010155684314668
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668]
+Dev loss: 0.1600949391722679
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679]
+Dev loss: 0.09314032830297947
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947]
+Dev loss: 0.0785691918572411
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411]
+Dev loss: 0.08043888211250305
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305]
+Dev loss: 0.07907095493283123
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123]
+Dev loss: 0.07956646103411913
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913]
+Dev loss: 0.0783974805381149
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913, 0.0783974805381149]
+Dev loss: 0.08088545768987387
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913, 0.0783974805381149, 0.08088545768987387]
+Dev loss: 0.08212601928971708
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913, 0.0783974805381149, 0.08088545768987387, 0.08212601928971708]
+Dev loss: 0.08360210666432977
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913, 0.0783974805381149, 0.08088545768987387, 0.08212601928971708, 0.08360210666432977]
+Dev loss: 0.08105665713082999
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9214099794626236, 0.4376383647322655, 0.39943137392401695, 0.32991286739706993, 0.1747421082109213, 0.12314355000853539, 0.08010155684314668, 0.1600949391722679, 0.09314032830297947, 0.0785691918572411, 0.08043888211250305, 0.07907095493283123, 0.07956646103411913, 0.0783974805381149, 0.08088545768987387, 0.08212601928971708, 0.08360210666432977, 0.08105665713082999]
+Dev loss: 0.0813952088356018
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=8, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.940677966101695, 0.940677966101695, 0.940677966101695, None)
+                                                     precision    recall  f1-score   support
+
+        Unhealthy without Diabetes and Risk Factors       1.00      0.95      0.97        75
+                          Diabetes and Risk Factors       1.00      0.90      0.95        29
+Nutritional value without Diabetes and Risk Factors       0.78      1.00      0.88         7
+                           Obesity without Diabetes       0.58      1.00      0.74         7
+
+                                        avg / total       0.96      0.94      0.95       118
+
+Schools should not allow junk food to be sold on campus because it causes major health problems at a developmental stage in kids' lives.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages the eating of unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should be a place to learn about healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it could contribute to an unhealthy lifestyle.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this has been linked to rising obesity rates.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it will increase the rate of obesity and thus diabetes among youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it reduces the accessibility of junk food for students who lack the appropriate information to make healthy choices and encourages healthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can cause Type 2 diabetes, and that is a terrible way to generate income in a school.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because studies prove that providing children junk food leads to adverse health effects.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is little nutritional value and higher levels of obesity in youth leading to higher levels of type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high rise in diabetes and junk food and lack of exercise have proven to be the culprits.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases cases of diseases such as diabetes as well as obesity.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the obesity problem and other health issues that youth are facing today.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children don't have enough self control to buy the healthy option.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's very unhealthy for kids.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has no nutritional value#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for the health of students who typically already do not have a proper diet.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes health issues#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food contributes to poor health, obesity, and even serious diseases like type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to unhealthy behavior and obesity.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they do not have any nutrition value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because by doing this they’ll be making an impact on teen diabetes, and health in general.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for children's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases risks of diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because childhood obesity and diabetes is on the rise, and selling these goods at school enables children to make poor choices.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools are educational institutions and should be taught healthy habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because obesity is climbing every year with young children.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because at that young age, it is hard to understand the value of health and many young people haven't developed a full perception of the "big picture" of life.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy habits, and provides improper nutrition kids need, or should be getting to learn at maximum efficiency.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health and weight.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of long term negative health effects afflicted on the average student.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they might not get healthy eating education at home.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the rate of type 2 diabetes is growing among kids.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high incidence of obesity among youth.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it allows children to make decisions when their parents are not around that may have negative effects on their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes obesity and type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and lifestyles.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the junk food is contributing to the students unhealthiness.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes poor nutrition and increased diabetic tendencies#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they should provide healthier options for students to choose#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it sabotages the health of students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the highest incidents of diabetes among kids in recent years.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to the increase in Type 2 Diabetes among children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making it easier for students to make unhealthy food choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy for children and cause of some decease in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it provides a health risk for children being in the same location.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because too many young people are getting type two diabetes from all the unhealthy eating.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has little nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the link between junk food and poor health in children is well known.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not good for health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to rising obesity rates and type 2 diabetes in children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for school kids to eat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to set an example for healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because more children are eating unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this kind of food can be the cause of health hazard and disease for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because as federally funded institutions, they should promote healthy eating and nutritional values.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because/it is not a healthy meal#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should encourage healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of the school to promote healthy options and make those available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are in the business of educating individuals and health and nutrition should be a part of their educational goals.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they have little to no nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food makes students obese and diabetic.#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they are promoting unhealthy eating and poor health later in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy nutritional habits.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it creates unhealthy eating habits in kids that then continue on into adulthood.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we should only provide healthy food to the kids except as a special treat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is not good for young people's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does promote unhealthy eating habits which in turn can lead to obesity and diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is related to major health issues, including obesity and heart disease.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is not healthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been proven to be unhealthy, and has little to no nutritional value.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases the risk of diabetes and perpetuates poor health choices#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to health problems, such as Type 2 Diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making our kids obese at an early age.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children need to eat healthy foods to help avoid type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy, can cause type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy in student health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it adds little nutritional value to a student's diet.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we all know the negative effect junk foods have on health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools have a responsibility to teach children to make good health decisions.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this will promote more children to eat unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because its unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because these foods are harmful to the long-term health of their students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the increase in obesity and obesity related diseases.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it creates obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits from a young age.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids need to start healthy habits and school is where they spend a majority of their time.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is contributing to diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can contribute to obesity and diseases such as diabetes in young people.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for development.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for the children.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to eat healthy when they can since they already eat too much junk.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases students' chances of becoming overweight and becoming diabetic.#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy and contributing to our obesity problems.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes an unhealthy lifestyle for kids#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because eating junk food is not good for the health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is linked to a rise in diabetes in youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools also have to focus on the health condition of the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because. It causes obesity and diabetes at alarming rates#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthier options to choose from and not be presented with non-healthy options.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the incidence of diabetes is on the rise.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and makes it readily available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it poses an unnecessary risk to the student's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's unhealthy for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of adults to help children learn young what is healthy or not for the betterment of their futures.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does not add much nutritional value to the students as they contain sugar, salts, fats and starch#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+111
+0.940677966101695
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 0.8319864720106125
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125]
+Dev loss: 0.8092188239097595
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595]
+Dev loss: 0.3585987649857998
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998]
+Dev loss: 0.23586793802678585
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585]
+Dev loss: 0.13432960864156485
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485]
+Dev loss: 0.11990159377455711
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711]
+Dev loss: 0.12326317466795444
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444]
+Dev loss: 0.09727562265470624
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624]
+Dev loss: 0.056312115862965584
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624, 0.056312115862965584]
+Dev loss: 0.15237216837704182
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624, 0.056312115862965584, 0.15237216837704182]
+Dev loss: 0.08354931592475623
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624, 0.056312115862965584, 0.15237216837704182, 0.08354931592475623]
+Dev loss: 0.08606763277202845
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624, 0.056312115862965584, 0.15237216837704182, 0.08354931592475623, 0.08606763277202845]
+Dev loss: 0.0771696506999433
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.8319864720106125, 0.8092188239097595, 0.3585987649857998, 0.23586793802678585, 0.13432960864156485, 0.11990159377455711, 0.12326317466795444, 0.09727562265470624, 0.056312115862965584, 0.15237216837704182, 0.08354931592475623, 0.08606763277202845, 0.0771696506999433]
+Dev loss: 0.14393578097224236
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=8, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.9491525423728814, 0.9491525423728814, 0.9491525423728814, None)
+                                                     precision    recall  f1-score   support
+
+        Unhealthy without Diabetes and Risk Factors       0.97      0.96      0.97        75
+                          Diabetes and Risk Factors       1.00      0.90      0.95        29
+Nutritional value without Diabetes and Risk Factors       0.88      1.00      0.93         7
+                           Obesity without Diabetes       0.70      1.00      0.82         7
+
+                                        avg / total       0.96      0.95      0.95       118
+
+Schools should not allow junk food to be sold on campus because it causes major health problems at a developmental stage in kids' lives.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages the eating of unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should be a place to learn about healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it could contribute to an unhealthy lifestyle.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this has been linked to rising obesity rates.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it will increase the rate of obesity and thus diabetes among youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it reduces the accessibility of junk food for students who lack the appropriate information to make healthy choices and encourages healthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can cause Type 2 diabetes, and that is a terrible way to generate income in a school.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because studies prove that providing children junk food leads to adverse health effects.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is little nutritional value and higher levels of obesity in youth leading to higher levels of type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high rise in diabetes and junk food and lack of exercise have proven to be the culprits.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases cases of diseases such as diabetes as well as obesity.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the obesity problem and other health issues that youth are facing today.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children don't have enough self control to buy the healthy option.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's very unhealthy for kids.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has no nutritional value#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for the health of students who typically already do not have a proper diet.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes health issues#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food contributes to poor health, obesity, and even serious diseases like type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to unhealthy behavior and obesity.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they do not have any nutrition value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because by doing this they’ll be making an impact on teen diabetes, and health in general.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for children's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases risks of diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because childhood obesity and diabetes is on the rise, and selling these goods at school enables children to make poor choices.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools are educational institutions and should be taught healthy habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because obesity is climbing every year with young children.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because at that young age, it is hard to understand the value of health and many young people haven't developed a full perception of the "big picture" of life.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy habits, and provides improper nutrition kids need, or should be getting to learn at maximum efficiency.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health and weight.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of long term negative health effects afflicted on the average student.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they might not get healthy eating education at home.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the rate of type 2 diabetes is growing among kids.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high incidence of obesity among youth.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it allows children to make decisions when their parents are not around that may have negative effects on their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes obesity and type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and lifestyles.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the junk food is contributing to the students unhealthiness.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes poor nutrition and increased diabetic tendencies#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they should provide healthier options for students to choose#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it sabotages the health of students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the highest incidents of diabetes among kids in recent years.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to the increase in Type 2 Diabetes among children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making it easier for students to make unhealthy food choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy for children and cause of some decease in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it provides a health risk for children being in the same location.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because too many young people are getting type two diabetes from all the unhealthy eating.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has little nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the link between junk food and poor health in children is well known.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not good for health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to rising obesity rates and type 2 diabetes in children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for school kids to eat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to set an example for healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because more children are eating unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this kind of food can be the cause of health hazard and disease for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because as federally funded institutions, they should promote healthy eating and nutritional values.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because/it is not a healthy meal#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should encourage healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of the school to promote healthy options and make those available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are in the business of educating individuals and health and nutrition should be a part of their educational goals.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they have little to no nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food makes students obese and diabetic.#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they are promoting unhealthy eating and poor health later in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy nutritional habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it creates unhealthy eating habits in kids that then continue on into adulthood.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we should only provide healthy food to the kids except as a special treat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is not good for young people's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does promote unhealthy eating habits which in turn can lead to obesity and diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is related to major health issues, including obesity and heart disease.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is not healthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been proven to be unhealthy, and has little to no nutritional value.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases the risk of diabetes and perpetuates poor health choices#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to health problems, such as Type 2 Diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making our kids obese at an early age.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children need to eat healthy foods to help avoid type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy, can cause type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy in student health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it adds little nutritional value to a student's diet.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we all know the negative effect junk foods have on health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools have a responsibility to teach children to make good health decisions.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this will promote more children to eat unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because its unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because these foods are harmful to the long-term health of their students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the increase in obesity and obesity related diseases.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it creates obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits from a young age.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids need to start healthy habits and school is where they spend a majority of their time.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is contributing to diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can contribute to obesity and diseases such as diabetes in young people.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for development.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for the children.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to eat healthy when they can since they already eat too much junk.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases students' chances of becoming overweight and becoming diabetic.#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and contributing to our obesity problems.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes an unhealthy lifestyle for kids#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because eating junk food is not good for the health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is linked to a rise in diabetes in youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools also have to focus on the health condition of the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because. It causes obesity and diabetes at alarming rates#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthier options to choose from and not be presented with non-healthy options.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the incidence of diabetes is on the rise.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and makes it readily available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it poses an unnecessary risk to the student's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's unhealthy for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of adults to help children learn young what is healthy or not for the betterment of their futures.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does not add much nutritional value to the students as they contain sugar, salts, fats and starch#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+112
+0.9491525423728814
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 0.9050455987453461
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461]
+Dev loss: 0.44861654937267303
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303]
+Dev loss: 0.29099767468869686
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686]
+Dev loss: 0.14999512396752834
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834]
+Dev loss: 0.11974996514618397
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397]
+Dev loss: 0.09427575767040253
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253]
+Dev loss: 0.07512316131033003
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003]
+Dev loss: 0.12715567834675312
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312]
+Dev loss: 0.06535546318627894
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894]
+Dev loss: 0.06467285216785967
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894, 0.06467285216785967]
+Dev loss: 0.06576737447176129
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894, 0.06467285216785967, 0.06576737447176129]
+Dev loss: 0.06640693382360041
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894, 0.06467285216785967, 0.06576737447176129, 0.06640693382360041]
+Dev loss: 0.06763202755246311
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894, 0.06467285216785967, 0.06576737447176129, 0.06640693382360041, 0.06763202755246311]
+Dev loss: 0.06816302926745266
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9050455987453461, 0.44861654937267303, 0.29099767468869686, 0.14999512396752834, 0.11974996514618397, 0.09427575767040253, 0.07512316131033003, 0.12715567834675312, 0.06535546318627894, 0.06467285216785967, 0.06576737447176129, 0.06640693382360041, 0.06763202755246311, 0.06816302926745266]
+Dev loss: 0.06908321799710393
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=8, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.940677966101695, 0.940677966101695, 0.940677966101695, None)
+                                                     precision    recall  f1-score   support
+
+        Unhealthy without Diabetes and Risk Factors       0.97      0.95      0.96        75
+                          Diabetes and Risk Factors       1.00      0.90      0.95        29
+Nutritional value without Diabetes and Risk Factors       0.78      1.00      0.88         7
+                           Obesity without Diabetes       0.70      1.00      0.82         7
+
+                                        avg / total       0.95      0.94      0.94       118
+
+Schools should not allow junk food to be sold on campus because it causes major health problems at a developmental stage in kids' lives.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages the eating of unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should be a place to learn about healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it could contribute to an unhealthy lifestyle.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this has been linked to rising obesity rates.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it will increase the rate of obesity and thus diabetes among youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it reduces the accessibility of junk food for students who lack the appropriate information to make healthy choices and encourages healthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can cause Type 2 diabetes, and that is a terrible way to generate income in a school.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because studies prove that providing children junk food leads to adverse health effects.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is little nutritional value and higher levels of obesity in youth leading to higher levels of type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high rise in diabetes and junk food and lack of exercise have proven to be the culprits.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases cases of diseases such as diabetes as well as obesity.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the obesity problem and other health issues that youth are facing today.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children don't have enough self control to buy the healthy option.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's very unhealthy for kids.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has no nutritional value#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for the health of students who typically already do not have a proper diet.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes health issues#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food contributes to poor health, obesity, and even serious diseases like type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to unhealthy behavior and obesity.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they do not have any nutrition value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because by doing this they’ll be making an impact on teen diabetes, and health in general.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for children's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases risks of diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because childhood obesity and diabetes is on the rise, and selling these goods at school enables children to make poor choices.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools are educational institutions and should be taught healthy habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because obesity is climbing every year with young children.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because at that young age, it is hard to understand the value of health and many young people haven't developed a full perception of the "big picture" of life.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy habits, and provides improper nutrition kids need, or should be getting to learn at maximum efficiency.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health and weight.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of long term negative health effects afflicted on the average student.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they might not get healthy eating education at home.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the rate of type 2 diabetes is growing among kids.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high incidence of obesity among youth.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it allows children to make decisions when their parents are not around that may have negative effects on their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes obesity and type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and lifestyles.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the junk food is contributing to the students unhealthiness.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes poor nutrition and increased diabetic tendencies#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they should provide healthier options for students to choose#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it sabotages the health of students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the highest incidents of diabetes among kids in recent years.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to the increase in Type 2 Diabetes among children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making it easier for students to make unhealthy food choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy for children and cause of some decease in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it provides a health risk for children being in the same location.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because too many young people are getting type two diabetes from all the unhealthy eating.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has little nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the link between junk food and poor health in children is well known.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not good for health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to rising obesity rates and type 2 diabetes in children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for school kids to eat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to set an example for healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because more children are eating unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this kind of food can be the cause of health hazard and disease for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because as federally funded institutions, they should promote healthy eating and nutritional values.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because/it is not a healthy meal#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should encourage healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of the school to promote healthy options and make those available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are in the business of educating individuals and health and nutrition should be a part of their educational goals.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they have little to no nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food makes students obese and diabetic.#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they are promoting unhealthy eating and poor health later in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy nutritional habits.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it creates unhealthy eating habits in kids that then continue on into adulthood.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we should only provide healthy food to the kids except as a special treat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is not good for young people's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does promote unhealthy eating habits which in turn can lead to obesity and diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is related to major health issues, including obesity and heart disease.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is not healthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been proven to be unhealthy, and has little to no nutritional value.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases the risk of diabetes and perpetuates poor health choices#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to health problems, such as Type 2 Diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making our kids obese at an early age.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children need to eat healthy foods to help avoid type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy, can cause type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy in student health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it adds little nutritional value to a student's diet.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we all know the negative effect junk foods have on health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools have a responsibility to teach children to make good health decisions.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this will promote more children to eat unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because its unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because these foods are harmful to the long-term health of their students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the increase in obesity and obesity related diseases.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it creates obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits from a young age.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids need to start healthy habits and school is where they spend a majority of their time.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is contributing to diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can contribute to obesity and diseases such as diabetes in young people.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for development.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for the children.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to eat healthy when they can since they already eat too much junk.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases students' chances of becoming overweight and becoming diabetic.#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and contributing to our obesity problems.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes an unhealthy lifestyle for kids#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because eating junk food is not good for the health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is linked to a rise in diabetes in youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools also have to focus on the health condition of the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because. It causes obesity and diabetes at alarming rates#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthier options to choose from and not be presented with non-healthy options.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the incidence of diabetes is on the rise.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and makes it readily available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it poses an unnecessary risk to the student's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's unhealthy for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of adults to help children learn young what is healthy or not for the betterment of their futures.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does not add much nutritional value to the students as they contain sugar, salts, fats and starch#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+111
+0.940677966101695
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 0.9232437610626221
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221]
+Dev loss: 0.5662133581936359
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359]
+Dev loss: 0.35120315477252007
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007]
+Dev loss: 0.3120303824543953
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953]
+Dev loss: 0.22924184426665306
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306]
+Dev loss: 0.11978244548663497
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497]
+Dev loss: 0.09952306840568781
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781]
+Dev loss: 0.08666310668922961
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961]
+Dev loss: 0.07872187392786145
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145]
+Dev loss: 0.07753717014566064
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145, 0.07753717014566064]
+Dev loss: 0.0832253210246563
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145, 0.07753717014566064, 0.0832253210246563]
+Dev loss: 0.08480320312082767
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145, 0.07753717014566064, 0.0832253210246563, 0.08480320312082767]
+Dev loss: 0.0852442542091012
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145, 0.07753717014566064, 0.0832253210246563, 0.08480320312082767, 0.0852442542091012]
+Dev loss: 0.08386437688022852
+HBox(children=(IntProgress(value=0, description='Training iteration', max=14, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=4, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [0.9232437610626221, 0.5662133581936359, 0.35120315477252007, 0.3120303824543953, 0.22924184426665306, 0.11978244548663497, 0.09952306840568781, 0.08666310668922961, 0.07872187392786145, 0.07753717014566064, 0.0832253210246563, 0.08480320312082767, 0.0852442542091012, 0.08386437688022852]
+Dev loss: 0.08217038796283305
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=8, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.940677966101695, 0.940677966101695, 0.940677966101695, None)
+                                                     precision    recall  f1-score   support
+
+        Unhealthy without Diabetes and Risk Factors       0.96      0.96      0.96        75
+                          Diabetes and Risk Factors       1.00      0.90      0.95        29
+Nutritional value without Diabetes and Risk Factors       0.88      1.00      0.93         7
+                           Obesity without Diabetes       0.67      0.86      0.75         7
+
+                                        avg / total       0.95      0.94      0.94       118
+
+Schools should not allow junk food to be sold on campus because it causes major health problems at a developmental stage in kids' lives.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages the eating of unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should be a place to learn about healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it could contribute to an unhealthy lifestyle.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this has been linked to rising obesity rates.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it will increase the rate of obesity and thus diabetes among youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it reduces the accessibility of junk food for students who lack the appropriate information to make healthy choices and encourages healthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can cause Type 2 diabetes, and that is a terrible way to generate income in a school.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because studies prove that providing children junk food leads to adverse health effects.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is little nutritional value and higher levels of obesity in youth leading to higher levels of type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy eating habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high rise in diabetes and junk food and lack of exercise have proven to be the culprits.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases cases of diseases such as diabetes as well as obesity.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the obesity problem and other health issues that youth are facing today.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because children don't have enough self control to buy the healthy option.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's very unhealthy for kids.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has no nutritional value#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for the health of students who typically already do not have a proper diet.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes health issues#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food contributes to poor health, obesity, and even serious diseases like type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to unhealthy behavior and obesity.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they do not have any nutrition value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because by doing this they’ll be making an impact on teen diabetes, and health in general.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is bad for children's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases risks of diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because childhood obesity and diabetes is on the rise, and selling these goods at school enables children to make poor choices.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools are educational institutions and should be taught healthy habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because obesity is climbing every year with young children.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because at that young age, it is hard to understand the value of health and many young people haven't developed a full perception of the "big picture" of life.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy habits, and provides improper nutrition kids need, or should be getting to learn at maximum efficiency.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health and weight.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of long term negative health effects afflicted on the average student.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they might not get healthy eating education at home.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the rate of type 2 diabetes is growing among kids.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because there is a high incidence of obesity among youth.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it allows children to make decisions when their parents are not around that may have negative effects on their health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes obesity and type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and lifestyles.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the junk food is contributing to the students unhealthiness.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes poor nutrition and increased diabetic tendencies#Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because they should provide healthier options for students to choose#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it sabotages the health of students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the highest incidents of diabetes among kids in recent years.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to the increase in Type 2 Diabetes among children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making it easier for students to make unhealthy food choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's not healthy for children and cause of some decease in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it provides a health risk for children being in the same location.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because too many young people are getting type two diabetes from all the unhealthy eating.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has little nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the link between junk food and poor health in children is well known.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not good for health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been linked to rising obesity rates and type 2 diabetes in children.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it causes type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for school kids to eat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to set an example for healthy eating.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because more children are eating unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this kind of food can be the cause of health hazard and disease for the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's bad for health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because as federally funded institutions, they should promote healthy eating and nutritional values.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because/it is not a healthy meal#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools should encourage healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of the school to promote healthy options and make those available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are in the business of educating individuals and health and nutrition should be a part of their educational goals.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they have little to no nutritional value.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food makes students obese and diabetic.#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they are promoting unhealthy eating and poor health later in the future.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it encourages unhealthy nutritional habits.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it creates unhealthy eating habits in kids that then continue on into adulthood.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we should only provide healthy food to the kids except as a special treat.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is not good for young people's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does promote unhealthy eating habits which in turn can lead to obesity and diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is related to major health issues, including obesity and heart disease.#Unhealthy without Diabetes and Risk Factors#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it is not healthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthy choices.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it has been proven to be unhealthy, and has little to no nutritional value.#Unhealthy without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases the risk of diabetes and perpetuates poor health choices#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it contributes to health problems, such as Type 2 Diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is making our kids obese at an early age.#Obesity without Diabetes#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because children need to eat healthy foods to help avoid type 2 diabetes.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy, can cause type 2 diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because unhealthy in student health#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it adds little nutritional value to a student's diet.#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because we all know the negative effect junk foods have on health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools have a responsibility to teach children to make good health decisions.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because this will promote more children to eat unhealthy junk food.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because its unhealthy.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because these foods are harmful to the long-term health of their students#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because of the increase in obesity and obesity related diseases.#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it creates obesity#Obesity without Diabetes#Obesity without Diabetes
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating habits from a young age.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids need to start healthy habits and school is where they spend a majority of their time.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is contributing to diabetes#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and can contribute to obesity and diseases such as diabetes in young people.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy for development.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is not healthy for the children.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because they need to eat healthy when they can since they already eat too much junk.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it increases students' chances of becoming overweight and becoming diabetic.#Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is unhealthy and contributing to our obesity problems.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes an unhealthy lifestyle for kids#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because eating junk food is not good for the health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because junk food is linked to a rise in diabetes in youth.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because schools also have to focus on the health condition of the students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because. It causes obesity and diabetes at alarming rates#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because kids should have healthier options to choose from and not be presented with non-healthy options.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because the incidence of diabetes is on the rise.#Diabetes and Risk Factors#Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it promotes unhealthy eating and makes it readily available.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it poses an unnecessary risk to the student's health.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it's unhealthy for students.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it is the responsibility of adults to help children learn young what is healthy or not for the betterment of their futures.#Unhealthy without Diabetes and Risk Factors#Unhealthy without Diabetes and Risk Factors
+Schools should not allow junk food to be sold on campus because it does not add much nutritional value to the students as they contain sugar, salts, fats and starch#Nutritional value without Diabetes and Risk Factors#Nutritional value without Diabetes and Risk Factors
+111
+0.940677966101695

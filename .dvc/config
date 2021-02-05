@@ -1,0 +1,4 @@
+[core]
+    remote = quill
+['remote "quill"']
+    url = gs://quill-ml-datasets

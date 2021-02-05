@@ -1,0 +1,1357 @@
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 1.6441060304641724
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724]
+Dev loss: 1.1800633490085601
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601]
+Dev loss: 0.9548427939414978
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978]
+Dev loss: 0.8761528491973877
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877]
+Dev loss: 0.8931606411933899
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899]
+Dev loss: 0.7001612305641174
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174]
+Dev loss: 0.5859474897384643
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643]
+Dev loss: 0.6971095442771912
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912]
+Dev loss: 0.7042110800743103
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103]
+Dev loss: 0.7454206466674804
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804]
+Dev loss: 0.5694116115570068
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804, 0.5694116115570068]
+Dev loss: 0.6215024173259736
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804, 0.5694116115570068, 0.6215024173259736]
+Dev loss: 0.6826395153999328
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804, 0.5694116115570068, 0.6215024173259736, 0.6826395153999328]
+Dev loss: 0.6818219572305679
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804, 0.5694116115570068, 0.6215024173259736, 0.6826395153999328, 0.6818219572305679]
+Dev loss: 0.6766721367835998
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6441060304641724, 1.1800633490085601, 0.9548427939414978, 0.8761528491973877, 0.8931606411933899, 0.7001612305641174, 0.5859474897384643, 0.6971095442771912, 0.7042110800743103, 0.7454206466674804, 0.5694116115570068, 0.6215024173259736, 0.6826395153999328, 0.6818219572305679, 0.6766721367835998]
+Dev loss: 0.6046638011932373
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=10, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.8300653594771242, 0.8300653594771242, 0.8300653594771242, None)
+                                           precision    recall  f1-score   support
+
+                   Unclassified Off-Topic       0.75      0.55      0.63        11
+          School without generating money       0.64      0.56      0.60        16
+   Schools providing healthy alternatives       0.95      0.93      0.94        75
+                           Student choice       0.58      1.00      0.74         7
+                  Students without choice       0.75      0.82      0.78        33
+                   Schools generate money       0.89      1.00      0.94         8
+Students can still bring/access junk food       0.00      0.00      0.00         3
+
+                              avg / total       0.82      0.83      0.82       153
+
+Schools should not allow junk food to be sold on campus, but kids will still bring in unhealthy food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but some think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but maybe on certain special occasions or at events#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but students may bring it anyway#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they can choose to sell food that are nutritious and healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but ultimately it is up to the individual student what they eat or drink#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthier choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but Can sell healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but families should have a say in what their kids eat#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there should be alternatives they sell#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring it to school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they could sell healthy options elsewhere#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have treats on special days#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but they could just have a small amount of it instead of the amount they were sold in#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they should inform the students as to why#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but serious consideration must be made in choosing replacements for it#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but it is good to have a balance of healthy and junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should also incorporate greater amounts of exercise into the school day#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but allow them to take it with them to school if they so wish#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy, nutritious food instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but kids are fond of junk foods#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but schools make a sizable profit by selling junk food items in vending machines#School without generating money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they have to get an incentive to stop offering it#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but can offer healthy food choices in vending machines#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I can see how the schools want to give the kids a choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but in the long run, a person's health choices are personal, and government institutions should not be able to dictate such choices#Unclassified Off-Topic#Student choice
+Schools should not allow junk food to be sold on campus, but parents should also provide education and rules at home around food choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow children to bring it in their lunch boxes if their parents send it in their lunch#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but the sale of junk food can generate a significant amount of profit#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could allow healthier alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but could offer alternative healthy foods in their place#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it does generate money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but give alternate snacks that are healthier#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they probably will continue to do so#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but provide a healthy alternative to sugary snack foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should not prohibit it if students bring it on their own#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it does provide the school system with extra revenue#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but if people want it, they will still find a way to have it#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow for healthy food to be available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but healthy snacks should be added to school vending machines as part of an initiative aimed at changing kids' eating and fitness habits#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer different alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some say students should be able to make their own choices of what to eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but there could be an argument for teaching kids to make decisions in the face of temptation by allowing the food to remain#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they should make sure the healthier options are things kids will actually enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should offer healthy alternatives and encourage children to make better decisions#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think that giving the kids healthy choices would be a great replacement#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should provide healthier food alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allowed to bring healthier food to the school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have greater accessibility to nutrient dense foods#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it needs to follow through at home with their own families#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but instead they should bring some healthy snacks and foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but selling snacks does raise money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but also not punish students for possessing junk food, since it is readily available and does not constitute an inherent threat that would warrant harsh punishment#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy snacks instead to raise revenue#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they may offer more choices of healthy food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it should be noted that every child has their own personal decision of what they want to eat#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but it does help the school make money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but allow students to bring in whatever foods their family allows#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but many kids prefer junk food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should have snacks that are healthy alternatives as treats#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think they should sell other healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should offer a wider variety of healthier snacks, so there is something for all students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to provide healthy snacks and drinks for students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they can slowly integrate healthier choices such as baked potato chips instead of fried#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should incorporate healthy initiatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy alternatives for the kids to turn to when they do want a snack#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but certain snacks are alright#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but let students do what they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should respect students' right of free choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should teach students accurate health information#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but they should have healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if a student really wants junk food, they can make he more conscious decision to purchase their junk food at a local grocery store#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead offer healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but at the end of the day, it's the students' choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should allow students to bring whatever food they wish to consume from home, as long as the school makes an effort to educate students about the risks of unhealthy eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should also be limited on what quasi-healthy options are available as well (eg#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some people think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives like fruit#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure there are healthy options for snacks to replace the junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives to junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have vending machines that sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus but they do#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring junk food to campus if they desire#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but healthy snacks should be#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be allowed to sell snacks and soda#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer a reasonable alternative to the type of snacks that you would expect to find at a school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternative snacks to purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow students to choose what they eat by bringing their own snacks if they want#Students can still bring/access junk food#Student choice
+Schools should not allow junk food to be sold on campus, but they should be offering healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but educating students about good food choices still need to happen because they will have access to junk food off campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but have healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow kids to bring their own if they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but provide alternative healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but here schools are, still selling this junk food that only promotes poor eating habits which could lead to a lot of health complications#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they should make sure that something is available to purchase if the children need to#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they tried to give us a choice between food#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide public health education of its dangers#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food can be sold once a month#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there could be certain times or events where some junk food may be purchased#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but be allowed to sell healthier alternative snacks and food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they are allowed to bring it themselves#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but ITS NOT GOOD#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but many schools do it because they do not see it as their job to change the diet of their students#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food is less expensive than healthier options so junk is perhaps all some can afford#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should not interfere with what students bring for lunch from home#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but the school allows snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer healthy options in place of junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they would be losing a good revenue source#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but it should also educate students and staff alike on why it has opted to do so#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but it is acceptable to eat it there#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but maybe a few things#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but educate kids about healthy eating#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer the option to buy snacks once a week#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but a slight compromise should be sought to make everyone happy#Schools providing healthy alternatives#Students without choice
+Schools should not allow junk food to be sold on campus, but they could offer some snack foods that are low in calories or not as salty or sugary but to be able to still give them a choice#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they cannot enforce eating habits outside of school#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but if it is sold, it should be really expensive, so that only people that really want junk food will buy it#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but if the kids choose to bring so on their own, that is their family's decision#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but the schools make money off of it#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they should at have least allow children to choose between healthy food and snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but make the food less sugary and salty to make it healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if it's taken away, kids will find a way to bring it back to campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is also important to focus on changing kids' fitness habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be prepared for community backlash#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they can replace the junk foods by selling some nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be transparent about their reasoning and teach kids why unhealthy foods aren't good#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but students should still have the freedom to bring snacks to school for lunch, everyone has a right to eat what they choose#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but should make an effort to teach the kids about better eating habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating by filling snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should have alternative healthy snacks available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthier snacks for students to have#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but the schools could fill snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if they insist it could be healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead fill snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should allow kids to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but if a club or organization has a fundraiser it may be allowed on special occasions#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but schools could fill the snack machines with healthy choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it is the children's decision to do whatever they want after they are not in school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but selling junk foods generate money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could sell a variety of healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but provide healthy snacks instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but we cannot protect our kids from everything bad for them out there#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but teens can make decisions about what they eat when they are not at school#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead offer healthier options to students for purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead replace it with healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+127
+0.8300653594771242
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 1.5687218189239502
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502]
+Dev loss: 1.3321456909179688
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688]
+Dev loss: 1.0593733310699462
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462]
+Dev loss: 0.8234719157218933
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933]
+Dev loss: 0.8085236787796021
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021]
+Dev loss: 0.7146910667419434
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434]
+Dev loss: 0.6287546157836914
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914]
+Dev loss: 0.6194513022899628
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914, 0.6194513022899628]
+Dev loss: 0.6577143132686615
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914, 0.6194513022899628, 0.6577143132686615]
+Dev loss: 0.6991499334573745
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914, 0.6194513022899628, 0.6577143132686615, 0.6991499334573745]
+Dev loss: 0.7294887125492096
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914, 0.6194513022899628, 0.6577143132686615, 0.6991499334573745, 0.7294887125492096]
+Dev loss: 0.6478338241577148
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.5687218189239502, 1.3321456909179688, 1.0593733310699462, 0.8234719157218933, 0.8085236787796021, 0.7146910667419434, 0.6287546157836914, 0.6194513022899628, 0.6577143132686615, 0.6991499334573745, 0.7294887125492096, 0.6478338241577148]
+Dev loss: 0.638480943441391
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=10, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.803921568627451, 0.803921568627451, 0.8039215686274509, None)
+                                           precision    recall  f1-score   support
+
+                   Unclassified Off-Topic       0.42      0.45      0.43        11
+          School without generating money       0.67      0.50      0.57        16
+   Schools providing healthy alternatives       0.97      0.92      0.95        75
+                           Student choice       0.47      1.00      0.64         7
+                  Students without choice       0.74      0.79      0.76        33
+                   Schools generate money       1.00      1.00      1.00         8
+Students can still bring/access junk food       0.00      0.00      0.00         3
+
+                              avg / total       0.81      0.80      0.80       153
+
+Schools should not allow junk food to be sold on campus, but kids will still bring in unhealthy food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but some think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but maybe on certain special occasions or at events#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but students may bring it anyway#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they can choose to sell food that are nutritious and healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but ultimately it is up to the individual student what they eat or drink#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthier choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but Can sell healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but families should have a say in what their kids eat#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but there should be alternatives they sell#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring it to school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they could sell healthy options elsewhere#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have treats on special days#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they could just have a small amount of it instead of the amount they were sold in#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they should inform the students as to why#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but serious consideration must be made in choosing replacements for it#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but it is good to have a balance of healthy and junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should also incorporate greater amounts of exercise into the school day#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but allow them to take it with them to school if they so wish#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy, nutritious food instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but kids are fond of junk foods#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but schools make a sizable profit by selling junk food items in vending machines#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they have to get an incentive to stop offering it#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but can offer healthy food choices in vending machines#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I can see how the schools want to give the kids a choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but in the long run, a person's health choices are personal, and government institutions should not be able to dictate such choices#Unclassified Off-Topic#Student choice
+Schools should not allow junk food to be sold on campus, but parents should also provide education and rules at home around food choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow children to bring it in their lunch boxes if their parents send it in their lunch#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but the sale of junk food can generate a significant amount of profit#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could allow healthier alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but could offer alternative healthy foods in their place#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it does generate money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but give alternate snacks that are healthier#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they probably will continue to do so#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but provide a healthy alternative to sugary snack foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should not prohibit it if students bring it on their own#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it does provide the school system with extra revenue#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but if people want it, they will still find a way to have it#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow for healthy food to be available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but healthy snacks should be added to school vending machines as part of an initiative aimed at changing kids' eating and fitness habits#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer different alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some say students should be able to make their own choices of what to eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but there could be an argument for teaching kids to make decisions in the face of temptation by allowing the food to remain#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should make sure the healthier options are things kids will actually enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should offer healthy alternatives and encourage children to make better decisions#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think that giving the kids healthy choices would be a great replacement#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should provide healthier food alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allowed to bring healthier food to the school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have greater accessibility to nutrient dense foods#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it needs to follow through at home with their own families#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but instead they should bring some healthy snacks and foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but selling snacks does raise money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but also not punish students for possessing junk food, since it is readily available and does not constitute an inherent threat that would warrant harsh punishment#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy snacks instead to raise revenue#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they may offer more choices of healthy food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it should be noted that every child has their own personal decision of what they want to eat#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but it does help the school make money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but allow students to bring in whatever foods their family allows#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but many kids prefer junk food#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but should have snacks that are healthy alternatives as treats#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think they should sell other healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should offer a wider variety of healthier snacks, so there is something for all students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to provide healthy snacks and drinks for students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they can slowly integrate healthier choices such as baked potato chips instead of fried#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should incorporate healthy initiatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy alternatives for the kids to turn to when they do want a snack#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but certain snacks are alright#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but let students do what they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should respect students' right of free choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should teach students accurate health information#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but they should have healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if a student really wants junk food, they can make he more conscious decision to purchase their junk food at a local grocery store#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead offer healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but at the end of the day, it's the students' choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should allow students to bring whatever food they wish to consume from home, as long as the school makes an effort to educate students about the risks of unhealthy eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should also be limited on what quasi-healthy options are available as well (eg#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some people think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives like fruit#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure there are healthy options for snacks to replace the junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives to junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have vending machines that sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus but they do#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring junk food to campus if they desire#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but healthy snacks should be#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be allowed to sell snacks and soda#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but should offer a reasonable alternative to the type of snacks that you would expect to find at a school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternative snacks to purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow students to choose what they eat by bringing their own snacks if they want#Students can still bring/access junk food#Student choice
+Schools should not allow junk food to be sold on campus, but they should be offering healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but educating students about good food choices still need to happen because they will have access to junk food off campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but have healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow kids to bring their own if they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but provide alternative healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but here schools are, still selling this junk food that only promotes poor eating habits which could lead to a lot of health complications#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they should make sure that something is available to purchase if the children need to#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they tried to give us a choice between food#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide public health education of its dangers#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but in some cases junk food can be sold once a month#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there could be certain times or events where some junk food may be purchased#Unclassified Off-Topic#School without generating money
+Schools should not allow junk food to be sold on campus, but be allowed to sell healthier alternative snacks and food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they are allowed to bring it themselves#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but ITS NOT GOOD#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but many schools do it because they do not see it as their job to change the diet of their students#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food is less expensive than healthier options so junk is perhaps all some can afford#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should not interfere with what students bring for lunch from home#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but the school allows snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer healthy options in place of junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they would be losing a good revenue source#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but it should also educate students and staff alike on why it has opted to do so#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is acceptable to eat it there#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but maybe a few things#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but educate kids about healthy eating#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer the option to buy snacks once a week#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but a slight compromise should be sought to make everyone happy#Schools providing healthy alternatives#Students without choice
+Schools should not allow junk food to be sold on campus, but they could offer some snack foods that are low in calories or not as salty or sugary but to be able to still give them a choice#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they cannot enforce eating habits outside of school#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but if it is sold, it should be really expensive, so that only people that really want junk food will buy it#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but if the kids choose to bring so on their own, that is their family's decision#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but the schools make money off of it#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they should at have least allow children to choose between healthy food and snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but make the food less sugary and salty to make it healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if it's taken away, kids will find a way to bring it back to campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is also important to focus on changing kids' fitness habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be prepared for community backlash#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they can replace the junk foods by selling some nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be transparent about their reasoning and teach kids why unhealthy foods aren't good#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but students should still have the freedom to bring snacks to school for lunch, everyone has a right to eat what they choose#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but should make an effort to teach the kids about better eating habits#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating by filling snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should have alternative healthy snacks available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthier snacks for students to have#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but the schools could fill snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if they insist it could be healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead fill snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should allow kids to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but if a club or organization has a fundraiser it may be allowed on special occasions#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but schools could fill the snack machines with healthy choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it is the children's decision to do whatever they want after they are not in school#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but selling junk foods generate money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could sell a variety of healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but provide healthy snacks instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but we cannot protect our kids from everything bad for them out there#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but teens can make decisions about what they eat when they are not at school#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead offer healthier options to students for purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead replace it with healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+123
+0.803921568627451
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 1.7806886911392212
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212]
+Dev loss: 1.5427170038223266
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266]
+Dev loss: 1.2797521114349366
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366]
+Dev loss: 1.0407496452331544
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544]
+Dev loss: 0.8226790606975556
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556]
+Dev loss: 0.748398733139038
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038]
+Dev loss: 0.7319459736347198
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198]
+Dev loss: 0.7193891763687134
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134]
+Dev loss: 0.6529271334409714
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714]
+Dev loss: 0.7911797523498535
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535]
+Dev loss: 0.6852362990379334
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334]
+Dev loss: 0.6394901692867279
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334, 0.6394901692867279]
+Dev loss: 0.687781423330307
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334, 0.6394901692867279, 0.687781423330307]
+Dev loss: 0.644418652355671
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334, 0.6394901692867279, 0.687781423330307, 0.644418652355671]
+Dev loss: 0.7145767450332642
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334, 0.6394901692867279, 0.687781423330307, 0.644418652355671, 0.7145767450332642]
+Dev loss: 0.7233761548995972
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.7806886911392212, 1.5427170038223266, 1.2797521114349366, 1.0407496452331544, 0.8226790606975556, 0.748398733139038, 0.7319459736347198, 0.7193891763687134, 0.6529271334409714, 0.7911797523498535, 0.6852362990379334, 0.6394901692867279, 0.687781423330307, 0.644418652355671, 0.7145767450332642, 0.7233761548995972]
+Dev loss: 0.750713336467743
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=10, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.8235294117647058, 0.8235294117647058, 0.8235294117647058, None)
+                                           precision    recall  f1-score   support
+
+                   Unclassified Off-Topic       0.60      0.55      0.57        11
+          School without generating money       0.67      0.38      0.48        16
+   Schools providing healthy alternatives       0.96      0.95      0.95        75
+                           Student choice       0.54      1.00      0.70         7
+                  Students without choice       0.74      0.85      0.79        33
+                   Schools generate money       0.89      1.00      0.94         8
+Students can still bring/access junk food       0.00      0.00      0.00         3
+
+                              avg / total       0.81      0.82      0.81       153
+
+Schools should not allow junk food to be sold on campus, but kids will still bring in unhealthy food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but some think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but maybe on certain special occasions or at events#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but students may bring it anyway#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they can choose to sell food that are nutritious and healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but ultimately it is up to the individual student what they eat or drink#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthier choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but Can sell healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but families should have a say in what their kids eat#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there should be alternatives they sell#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring it to school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they could sell healthy options elsewhere#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have treats on special days#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they could just have a small amount of it instead of the amount they were sold in#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but they should inform the students as to why#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but serious consideration must be made in choosing replacements for it#Schools providing healthy alternatives#Students without choice
+Schools should not allow junk food to be sold on campus, but it is good to have a balance of healthy and junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should also incorporate greater amounts of exercise into the school day#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but allow them to take it with them to school if they so wish#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy, nutritious food instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but kids are fond of junk foods#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but schools make a sizable profit by selling junk food items in vending machines#School without generating money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they have to get an incentive to stop offering it#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but can offer healthy food choices in vending machines#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I can see how the schools want to give the kids a choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but in the long run, a person's health choices are personal, and government institutions should not be able to dictate such choices#Unclassified Off-Topic#Student choice
+Schools should not allow junk food to be sold on campus, but parents should also provide education and rules at home around food choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow children to bring it in their lunch boxes if their parents send it in their lunch#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but the sale of junk food can generate a significant amount of profit#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could allow healthier alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but could offer alternative healthy foods in their place#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it does generate money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but give alternate snacks that are healthier#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they probably will continue to do so#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but provide a healthy alternative to sugary snack foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should not prohibit it if students bring it on their own#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it does provide the school system with extra revenue#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but if people want it, they will still find a way to have it#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow for healthy food to be available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but healthy snacks should be added to school vending machines as part of an initiative aimed at changing kids' eating and fitness habits#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer different alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some say students should be able to make their own choices of what to eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but there could be an argument for teaching kids to make decisions in the face of temptation by allowing the food to remain#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they should make sure the healthier options are things kids will actually enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should offer healthy alternatives and encourage children to make better decisions#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think that giving the kids healthy choices would be a great replacement#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should provide healthier food alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allowed to bring healthier food to the school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have greater accessibility to nutrient dense foods#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it needs to follow through at home with their own families#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but instead they should bring some healthy snacks and foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but selling snacks does raise money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but also not punish students for possessing junk food, since it is readily available and does not constitute an inherent threat that would warrant harsh punishment#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but should provide healthy snacks instead to raise revenue#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they may offer more choices of healthy food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it should be noted that every child has their own personal decision of what they want to eat#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but it does help the school make money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but allow students to bring in whatever foods their family allows#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but many kids prefer junk food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should have snacks that are healthy alternatives as treats#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think they should sell other healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should offer a wider variety of healthier snacks, so there is something for all students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to provide healthy snacks and drinks for students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they can slowly integrate healthier choices such as baked potato chips instead of fried#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should incorporate healthy initiatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy alternatives for the kids to turn to when they do want a snack#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but certain snacks are alright#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but let students do what they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should respect students' right of free choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should teach students accurate health information#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if a student really wants junk food, they can make he more conscious decision to purchase their junk food at a local grocery store#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead offer healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but at the end of the day, it's the students' choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should allow students to bring whatever food they wish to consume from home, as long as the school makes an effort to educate students about the risks of unhealthy eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should also be limited on what quasi-healthy options are available as well (eg#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some people think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives like fruit#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure there are healthy options for snacks to replace the junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives to junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have vending machines that sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus but they do#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring junk food to campus if they desire#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but healthy snacks should be#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be allowed to sell snacks and soda#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer a reasonable alternative to the type of snacks that you would expect to find at a school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternative snacks to purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow students to choose what they eat by bringing their own snacks if they want#Students can still bring/access junk food#Student choice
+Schools should not allow junk food to be sold on campus, but they should be offering healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but educating students about good food choices still need to happen because they will have access to junk food off campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but have healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow kids to bring their own if they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but provide alternative healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but here schools are, still selling this junk food that only promotes poor eating habits which could lead to a lot of health complications#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they should make sure that something is available to purchase if the children need to#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they tried to give us a choice between food#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide public health education of its dangers#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food can be sold once a month#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there could be certain times or events where some junk food may be purchased#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but be allowed to sell healthier alternative snacks and food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they are allowed to bring it themselves#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but ITS NOT GOOD#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but many schools do it because they do not see it as their job to change the diet of their students#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but in some cases junk food is less expensive than healthier options so junk is perhaps all some can afford#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should not interfere with what students bring for lunch from home#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but the school allows snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer healthy options in place of junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they would be losing a good revenue source#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but it should also educate students and staff alike on why it has opted to do so#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is acceptable to eat it there#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but maybe a few things#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but educate kids about healthy eating#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer the option to buy snacks once a week#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but a slight compromise should be sought to make everyone happy#Schools providing healthy alternatives#Students without choice
+Schools should not allow junk food to be sold on campus, but they could offer some snack foods that are low in calories or not as salty or sugary but to be able to still give them a choice#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they cannot enforce eating habits outside of school#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but if it is sold, it should be really expensive, so that only people that really want junk food will buy it#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but if the kids choose to bring so on their own, that is their family's decision#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but the schools make money off of it#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they should at have least allow children to choose between healthy food and snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but make the food less sugary and salty to make it healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if it's taken away, kids will find a way to bring it back to campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is also important to focus on changing kids' fitness habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be prepared for community backlash#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they can replace the junk foods by selling some nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be transparent about their reasoning and teach kids why unhealthy foods aren't good#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but students should still have the freedom to bring snacks to school for lunch, everyone has a right to eat what they choose#Students can still bring/access junk food#Student choice
+Schools should not allow junk food to be sold on campus, but should make an effort to teach the kids about better eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating by filling snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should have alternative healthy snacks available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthier snacks for students to have#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but the schools could fill snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if they insist it could be healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead fill snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should allow kids to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but if a club or organization has a fundraiser it may be allowed on special occasions#Unclassified Off-Topic#School without generating money
+Schools should not allow junk food to be sold on campus, but schools could fill the snack machines with healthy choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it is the children's decision to do whatever they want after they are not in school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but selling junk foods generate money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could sell a variety of healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but provide healthy snacks instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but we cannot protect our kids from everything bad for them out there#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but teens can make decisions about what they eat when they are not at school#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead offer healthier options to students for purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead replace it with healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+126
+0.8235294117647058
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 1.6267405986785888
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888]
+Dev loss: 1.3237014770507813
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813]
+Dev loss: 1.0929560661315918
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918]
+Dev loss: 1.1254114747047423
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423]
+Dev loss: 0.8815658926963806
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806]
+Dev loss: 0.8156226992607116
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116]
+Dev loss: 0.7397108376026154
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154]
+Dev loss: 0.7794340014457702
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702]
+Dev loss: 0.6944749832153321
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321]
+Dev loss: 0.7414498686790466
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466]
+Dev loss: 0.7073331296443939
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939]
+Dev loss: 0.6366524815559387
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387]
+Dev loss: 0.6697606921195984
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984]
+Dev loss: 0.6516389012336731
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731]
+Dev loss: 0.669356906414032
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731, 0.669356906414032]
+Dev loss: 0.7288667738437653
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731, 0.669356906414032, 0.7288667738437653]
+Dev loss: 0.6060905247926712
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731, 0.669356906414032, 0.7288667738437653, 0.6060905247926712]
+Dev loss: 0.6194803416728973
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731, 0.669356906414032, 0.7288667738437653, 0.6060905247926712, 0.6194803416728973]
+Dev loss: 0.6208348870277405
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6267405986785888, 1.3237014770507813, 1.0929560661315918, 1.1254114747047423, 0.8815658926963806, 0.8156226992607116, 0.7397108376026154, 0.7794340014457702, 0.6944749832153321, 0.7414498686790466, 0.7073331296443939, 0.6366524815559387, 0.6697606921195984, 0.6516389012336731, 0.669356906414032, 0.7288667738437653, 0.6060905247926712, 0.6194803416728973, 0.6208348870277405]
+Dev loss: 0.580592431128025
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=10, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.8300653594771242, 0.8300653594771242, 0.8300653594771242, None)
+                                           precision    recall  f1-score   support
+
+                   Unclassified Off-Topic       0.58      0.64      0.61        11
+          School without generating money       0.75      0.38      0.50        16
+   Schools providing healthy alternatives       0.92      0.96      0.94        75
+                           Student choice       0.78      1.00      0.88         7
+                  Students without choice       0.73      0.82      0.77        33
+                   Schools generate money       0.89      1.00      0.94         8
+Students can still bring/access junk food       0.00      0.00      0.00         3
+
+                              avg / total       0.81      0.83      0.81       153
+
+Schools should not allow junk food to be sold on campus, but kids will still bring in unhealthy food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but some think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but maybe on certain special occasions or at events#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but students may bring it anyway#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they can choose to sell food that are nutritious and healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but ultimately it is up to the individual student what they eat or drink#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthier choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but Can sell healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but families should have a say in what their kids eat#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there should be alternatives they sell#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring it to school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they could sell healthy options elsewhere#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have treats on special days#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could just have a small amount of it instead of the amount they were sold in#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they should inform the students as to why#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but serious consideration must be made in choosing replacements for it#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but it is good to have a balance of healthy and junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should also incorporate greater amounts of exercise into the school day#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allow them to take it with them to school if they so wish#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy, nutritious food instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but kids are fond of junk foods#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but schools make a sizable profit by selling junk food items in vending machines#School without generating money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they have to get an incentive to stop offering it#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but can offer healthy food choices in vending machines#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I can see how the schools want to give the kids a choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but in the long run, a person's health choices are personal, and government institutions should not be able to dictate such choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but parents should also provide education and rules at home around food choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow children to bring it in their lunch boxes if their parents send it in their lunch#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but the sale of junk food can generate a significant amount of profit#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could allow healthier alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but could offer alternative healthy foods in their place#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it does generate money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but give alternate snacks that are healthier#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they probably will continue to do so#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but provide a healthy alternative to sugary snack foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should not prohibit it if students bring it on their own#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it does provide the school system with extra revenue#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but if people want it, they will still find a way to have it#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow for healthy food to be available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but healthy snacks should be added to school vending machines as part of an initiative aimed at changing kids' eating and fitness habits#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer different alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some say students should be able to make their own choices of what to eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but there could be an argument for teaching kids to make decisions in the face of temptation by allowing the food to remain#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they should make sure the healthier options are things kids will actually enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should offer healthy alternatives and encourage children to make better decisions#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think that giving the kids healthy choices would be a great replacement#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should provide healthier food alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allowed to bring healthier food to the school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have greater accessibility to nutrient dense foods#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it needs to follow through at home with their own families#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but instead they should bring some healthy snacks and foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but selling snacks does raise money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but also not punish students for possessing junk food, since it is readily available and does not constitute an inherent threat that would warrant harsh punishment#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but should provide healthy snacks instead to raise revenue#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they may offer more choices of healthy food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it should be noted that every child has their own personal decision of what they want to eat#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but it does help the school make money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but allow students to bring in whatever foods their family allows#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but many kids prefer junk food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should have snacks that are healthy alternatives as treats#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think they should sell other healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should offer a wider variety of healthier snacks, so there is something for all students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to provide healthy snacks and drinks for students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they can slowly integrate healthier choices such as baked potato chips instead of fried#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should incorporate healthy initiatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy alternatives for the kids to turn to when they do want a snack#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but certain snacks are alright#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but let students do what they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should respect students' right of free choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should teach students accurate health information#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if a student really wants junk food, they can make he more conscious decision to purchase their junk food at a local grocery store#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead offer healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but at the end of the day, it's the students' choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should allow students to bring whatever food they wish to consume from home, as long as the school makes an effort to educate students about the risks of unhealthy eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should also be limited on what quasi-healthy options are available as well (eg#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some people think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives like fruit#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure there are healthy options for snacks to replace the junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives to junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have vending machines that sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus but they do#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring junk food to campus if they desire#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but healthy snacks should be#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be allowed to sell snacks and soda#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer a reasonable alternative to the type of snacks that you would expect to find at a school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternative snacks to purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow students to choose what they eat by bringing their own snacks if they want#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but they should be offering healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but educating students about good food choices still need to happen because they will have access to junk food off campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but have healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow kids to bring their own if they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but provide alternative healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but here schools are, still selling this junk food that only promotes poor eating habits which could lead to a lot of health complications#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure that something is available to purchase if the children need to#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they tried to give us a choice between food#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide public health education of its dangers#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but in some cases junk food can be sold once a month#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there could be certain times or events where some junk food may be purchased#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but be allowed to sell healthier alternative snacks and food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they are allowed to bring it themselves#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but ITS NOT GOOD#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but many schools do it because they do not see it as their job to change the diet of their students#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food is less expensive than healthier options so junk is perhaps all some can afford#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should not interfere with what students bring for lunch from home#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but the school allows snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer healthy options in place of junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they would be losing a good revenue source#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but it should also educate students and staff alike on why it has opted to do so#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but it is acceptable to eat it there#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but maybe a few things#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but educate kids about healthy eating#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer the option to buy snacks once a week#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but a slight compromise should be sought to make everyone happy#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they could offer some snack foods that are low in calories or not as salty or sugary but to be able to still give them a choice#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they cannot enforce eating habits outside of school#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but if it is sold, it should be really expensive, so that only people that really want junk food will buy it#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but if the kids choose to bring so on their own, that is their family's decision#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but the schools make money off of it#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they should at have least allow children to choose between healthy food and snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but make the food less sugary and salty to make it healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if it's taken away, kids will find a way to bring it back to campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is also important to focus on changing kids' fitness habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they should be prepared for community backlash#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they can replace the junk foods by selling some nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be transparent about their reasoning and teach kids why unhealthy foods aren't good#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but students should still have the freedom to bring snacks to school for lunch, everyone has a right to eat what they choose#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but should make an effort to teach the kids about better eating habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating by filling snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should have alternative healthy snacks available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthier snacks for students to have#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but the schools could fill snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if they insist it could be healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead fill snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should allow kids to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but if a club or organization has a fundraiser it may be allowed on special occasions#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but schools could fill the snack machines with healthy choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it is the children's decision to do whatever they want after they are not in school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but selling junk foods generate money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could sell a variety of healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but provide healthy snacks instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but we cannot protect our kids from everything bad for them out there#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but teens can make decisions about what they eat when they are not at school#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but provide healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead offer healthier options to students for purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead replace it with healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+127
+0.8300653594771242
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: []
+Dev loss: 1.6184418201446533
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533]
+Dev loss: 1.347331976890564
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564]
+Dev loss: 1.0136176466941833
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833]
+Dev loss: 0.8458161592483521
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521]
+Dev loss: 0.823982971906662
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662]
+Dev loss: 0.7689172387123108
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108]
+Dev loss: 0.6919893324375153
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153]
+Dev loss: 0.8000822186470031
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031]
+Dev loss: 0.7398996233940125
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125]
+Dev loss: 0.7117551803588867
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867]
+Dev loss: 0.7161112725734711
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711]
+Dev loss: 0.6850085772573948
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711, 0.6850085772573948]
+Dev loss: 0.7288524389266968
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711, 0.6850085772573948, 0.7288524389266968]
+Dev loss: 0.7412672638893127
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711, 0.6850085772573948, 0.7288524389266968, 0.7412672638893127]
+Dev loss: 0.7908242881298065
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711, 0.6850085772573948, 0.7288524389266968, 0.7412672638893127, 0.7908242881298065]
+Dev loss: 0.6850578054785729
+HBox(children=(IntProgress(value=0, description='Training iteration', max=18, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=5, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Loss history: [1.6184418201446533, 1.347331976890564, 1.0136176466941833, 0.8458161592483521, 0.823982971906662, 0.7689172387123108, 0.6919893324375153, 0.8000822186470031, 0.7398996233940125, 0.7117551803588867, 0.7161112725734711, 0.6850085772573948, 0.7288524389266968, 0.7412672638893127, 0.7908242881298065, 0.6850578054785729]
+Dev loss: 0.693825078010559
+No improvement on development set. Finish training.
+Loading model from /tmp/model.bin
+HBox(children=(IntProgress(value=0, description='Evaluation iteration', max=10, style=ProgressStyle(description_width='initial')), HTML(value='')))
+
+Test performance: (0.8169934640522876, 0.8169934640522876, 0.8169934640522877, None)
+                                           precision    recall  f1-score   support
+
+                   Unclassified Off-Topic       0.55      0.55      0.55        11
+          School without generating money       0.58      0.44      0.50        16
+   Schools providing healthy alternatives       0.92      0.96      0.94        75
+                           Student choice       0.58      1.00      0.74         7
+                  Students without choice       0.81      0.76      0.78        33
+                   Schools generate money       0.89      1.00      0.94         8
+Students can still bring/access junk food       0.00      0.00      0.00         3
+
+                              avg / total       0.80      0.82      0.80       153
+
+Schools should not allow junk food to be sold on campus, but kids will still bring in unhealthy food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but some think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but maybe on certain special occasions or at events#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but students may bring it anyway#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they can choose to sell food that are nutritious and healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but ultimately it is up to the individual student what they eat or drink#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthier choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but Can sell healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but families should have a say in what their kids eat#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there should be alternatives they sell#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring it to school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they could sell healthy options elsewhere#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have treats on special days#Students without choice#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they could just have a small amount of it instead of the amount they were sold in#School without generating money#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they should inform the students as to why#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but serious consideration must be made in choosing replacements for it#Schools providing healthy alternatives#School without generating money
+Schools should not allow junk food to be sold on campus, but it is good to have a balance of healthy and junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should also incorporate greater amounts of exercise into the school day#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allow them to take it with them to school if they so wish#School without generating money#Students without choice
+Schools should not allow junk food to be sold on campus, but should provide healthy, nutritious food instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but kids are fond of junk foods#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but schools make a sizable profit by selling junk food items in vending machines#School without generating money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they have to get an incentive to stop offering it#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but can offer healthy food choices in vending machines#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I can see how the schools want to give the kids a choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but in the long run, a person's health choices are personal, and government institutions should not be able to dictate such choices#Unclassified Off-Topic#Student choice
+Schools should not allow junk food to be sold on campus, but parents should also provide education and rules at home around food choices#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow children to bring it in their lunch boxes if their parents send it in their lunch#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but the sale of junk food can generate a significant amount of profit#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could allow healthier alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but could offer alternative healthy foods in their place#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it does generate money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but give alternate snacks that are healthier#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they probably will continue to do so#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but provide a healthy alternative to sugary snack foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but students should be allowed to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should not prohibit it if students bring it on their own#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it does provide the school system with extra revenue#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but if people want it, they will still find a way to have it#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should allow for healthy food to be available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but healthy snacks should be added to school vending machines as part of an initiative aimed at changing kids' eating and fitness habits#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer different alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some say students should be able to make their own choices of what to eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but there could be an argument for teaching kids to make decisions in the face of temptation by allowing the food to remain#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they should make sure the healthier options are things kids will actually enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should offer healthy alternatives and encourage children to make better decisions#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think that giving the kids healthy choices would be a great replacement#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should provide healthier food alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but allowed to bring healthier food to the school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have greater accessibility to nutrient dense foods#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it needs to follow through at home with their own families#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but instead they should bring some healthy snacks and foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but selling snacks does raise money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but also not punish students for possessing junk food, since it is readily available and does not constitute an inherent threat that would warrant harsh punishment#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but should provide healthy snacks instead to raise revenue#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they may offer more choices of healthy food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it should be noted that every child has their own personal decision of what they want to eat#Students without choice#Student choice
+Schools should not allow junk food to be sold on campus, but it does help the school make money#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but allow students to bring in whatever foods their family allows#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but many kids prefer junk food#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should have snacks that are healthy alternatives as treats#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but I think they should sell other healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead should offer a wider variety of healthier snacks, so there is something for all students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be allowed to provide healthy snacks and drinks for students to enjoy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they can slowly integrate healthier choices such as baked potato chips instead of fried#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should incorporate healthy initiatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy alternatives for the kids to turn to when they do want a snack#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but certain snacks are alright#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but let students do what they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should respect students' right of free choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should teach students accurate health information#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if a student really wants junk food, they can make he more conscious decision to purchase their junk food at a local grocery store#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should instead offer healthier options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but at the end of the day, it's the students' choice#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but they should allow students to bring whatever food they wish to consume from home, as long as the school makes an effort to educate students about the risks of unhealthy eating habits#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but should also be limited on what quasi-healthy options are available as well (eg#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but some people think students should be able to choose what they eat#Student choice#Student choice
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives like fruit#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure there are healthy options for snacks to replace the junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternatives to junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should have vending machines that sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus but they do#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but students should be allowed to bring junk food to campus if they desire#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but healthy snacks should be#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be allowed to sell snacks and soda#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer a reasonable alternative to the type of snacks that you would expect to find at a school#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should sell healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should offer healthy alternative snacks to purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow students to choose what they eat by bringing their own snacks if they want#Students can still bring/access junk food#Student choice
+Schools should not allow junk food to be sold on campus, but they should be offering healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but educating students about good food choices still need to happen because they will have access to junk food off campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but have healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should allow kids to bring their own if they want#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but provide alternative healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but here schools are, still selling this junk food that only promotes poor eating habits which could lead to a lot of health complications#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should make sure that something is available to purchase if the children need to#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but they tried to give us a choice between food#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide public health education of its dangers#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but in some cases junk food can be sold once a month#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but there could be certain times or events where some junk food may be purchased#Unclassified Off-Topic#School without generating money
+Schools should not allow junk food to be sold on campus, but be allowed to sell healthier alternative snacks and food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they are allowed to bring it themselves#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but ITS NOT GOOD#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but many schools do it because they do not see it as their job to change the diet of their students#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but in some cases junk food is less expensive than healthier options so junk is perhaps all some can afford#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should not interfere with what students bring for lunch from home#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but the school allows snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer healthy options in place of junk food#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they would be losing a good revenue source#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but it should also educate students and staff alike on why it has opted to do so#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but it is acceptable to eat it there#Unclassified Off-Topic#Students without choice
+Schools should not allow junk food to be sold on campus, but maybe a few things#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but educate kids about healthy eating#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they could offer the option to buy snacks once a week#School without generating money#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but a slight compromise should be sought to make everyone happy#Schools providing healthy alternatives#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but they could offer some snack foods that are low in calories or not as salty or sugary but to be able to still give them a choice#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they cannot enforce eating habits outside of school#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but if it is sold, it should be really expensive, so that only people that really want junk food will buy it#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but if the kids choose to bring so on their own, that is their family's decision#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but the schools make money off of it#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they should at have least allow children to choose between healthy food and snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but make the food less sugary and salty to make it healthy#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if it's taken away, kids will find a way to bring it back to campus#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but it is also important to focus on changing kids' fitness habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but they should be prepared for community backlash#School without generating money#School without generating money
+Schools should not allow junk food to be sold on campus, but they can replace the junk foods by selling some nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should be transparent about their reasoning and teach kids why unhealthy foods aren't good#Students without choice#School without generating money
+Schools should not allow junk food to be sold on campus, but students should still have the freedom to bring snacks to school for lunch, everyone has a right to eat what they choose#Students can still bring/access junk food#Students without choice
+Schools should not allow junk food to be sold on campus, but should make an effort to teach the kids about better eating habits#Students without choice#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead promote healthy eating by filling snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should have alternative healthy snacks available#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should provide healthier snacks for students to have#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but the schools could fill snack machines with more nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but if they insist it could be healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead fill snack machines with nutritious foods#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should allow kids to bring it from home#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but if a club or organization has a fundraiser it may be allowed on special occasions#Unclassified Off-Topic#Unclassified Off-Topic
+Schools should not allow junk food to be sold on campus, but schools could fill the snack machines with healthy choices#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but it is the children's decision to do whatever they want after they are not in school#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but selling junk foods generate money for the school#Schools generate money#Schools generate money
+Schools should not allow junk food to be sold on campus, but they could sell a variety of healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but provide healthy snacks instead#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but we cannot protect our kids from everything bad for them out there#Students without choice#Students without choice
+Schools should not allow junk food to be sold on campus, but teens can make decisions about what they eat when they are not at school#School without generating money#Student choice
+Schools should not allow junk food to be sold on campus, but provide healthy options#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but offer healthy snacks#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but instead offer healthier options to students for purchase#Schools providing healthy alternatives#Schools providing healthy alternatives
+Schools should not allow junk food to be sold on campus, but should instead replace it with healthy alternatives#Schools providing healthy alternatives#Schools providing healthy alternatives
+125
+0.8169934640522876

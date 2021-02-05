@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beaaf003-7561-4fcd-b62c-907c6da1a09f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/capitalization-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/capitalization-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/commas-after-yes-no-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/commas-after-yes-no-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/commas-in-numbers-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/commas-in-numbers-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/incorrect-irregular-past-tense-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/incorrect-irregular-past-tense-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/incorrect-participle-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/incorrect-participle-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/man-men-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/man-men-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-perfect-with-incorrect-participle-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-perfect-with-incorrect-participle-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-perfect-without-have-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-perfect-without-have-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-incorrect-be-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-incorrect-be-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-incorrect-participle-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-incorrect-participle-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-simple-past-instead-of-participle-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-with-simple-past-instead-of-participle-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-without-be-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/passive-without-be-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/past-tense-instead-of-participle-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/past-tense-instead-of-participle-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-progressive-with-incorrect-be-and-without-have-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-progressive-with-incorrect-be-and-without-have-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-progressive-without-have-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-progressive-without-have-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-without-have-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/perfect-without-have-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/plural-vs-possessive-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/plural-vs-possessive-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/question-mark-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/question-mark-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/repeated-word-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/repeated-word-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/simple-past-instead-of-past-perfect-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/simple-past-instead-of-past-perfect-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/singular-plural-noun-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/singular-plural-noun-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-collective-noun-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-collective-noun-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-indefinite-pronoun-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-indefinite-pronoun-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-pronoun-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-pronoun-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-simple-noun-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/subject-verb-agreement-with-simple-noun-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/than-then-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/than-then-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/woman-women-negative.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../data/validated/verb_errors/woman-women-positive.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../private.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../private.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distillation/augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../distillation/augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grammarcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../grammarcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../myspacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unsupervised.py" beforeDir="false" afterPath="$PROJECT_DIR$/../unsupervised.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../verbutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../verbutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scripts/errors/evaluate_rules_on_manual_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../scripts/errors/evaluate_rules_on_manual_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tests/grammar_corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tests/grammar_corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tests/test_replacement_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tests/test_replacement_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tests/test_verbutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tests/test_verbutils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1gLwRuwHHqs9dU2QSle9QWaLcJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beaaf003-7561-4fcd-b62c-907c6da1a09f" name="Default Changelist" comment="" />
+      <created>1597907178687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597907178687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597907320279">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.2560.1440@72.27.1848.1053" timestamp="1597907320279" />
+  </component>
+</project>

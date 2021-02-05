@@ -101,7 +101,7 @@ def get_bert_classifier(model_type: str, num_labels: int,
 
 
 def get_multilabel_bert_classifier(model_type: str, num_labels: int,
-                        model_file: str=None, device: str="cpu") -> BertForMultiLabelSequenceClassification:
+                        model_file: str = None, device: str = "cpu") -> BertForMultiLabelSequenceClassification:
     """
     Load a BertForMultiLabelSequenceClassification model, either from a model file with a finetuned
     model, or as a simple pretrained model.

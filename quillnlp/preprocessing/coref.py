@@ -1,9 +1,10 @@
 from quillnlp.utils import detokenize
 
 from allennlp.predictors.predictor import Predictor
+import allennlp_models.coref
 
-
-coref_predictor = Predictor.from_path("https://s3-us-west-2.amazonaws.com/allennlp/models/coref-model-2018.02.05.tar.gz")
+#coref_predictor = Predictor.from_path("https://s3-us-west-2.amazonaws.com/allennlp/models/coref-model-2018.02.05.tar.gz")
+coref_predictor = Predictor.from_path("https://storage.googleapis.com/allennlp-public-models/coref-spanbert-large-2020.02.27.tar.gz")
 
 
 def get_coreference_dictionary(sentence: str):

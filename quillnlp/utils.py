@@ -2,10 +2,7 @@ import re
 
 from typing import List, Generator, Dict
 
-import spacy
-
-
-nlp = spacy.load("en")
+from quillnlp.grammar.myspacy import nlp
 
 
 def detokenize(text: str) -> str:
@@ -22,6 +19,7 @@ def detokenize(text: str) -> str:
     """
     text = re.sub("\s+([;:,\.\?!])", "\\1", text)
     text = re.sub("\s+(n't)", "\\1", text)
+    text = re.sub("\s+('s)", "\\1", text)
     text = text.replace(" - ", "-")
     return text
 

@@ -1,0 +1,209 @@
+First-Person Opinionated Phrase Keyword Check:
+  - I think
+  - I'm thinking
+  - I am thinking
+  - I would think
+  - I'd think
+  - I don't think
+  - I'm not thinking
+  - I am not thinking
+  - I would not think
+  - I wouldn't think
+  - I believe
+  - I would believe
+  - I would like to believe
+  - I'd like to believe
+  - I don't believe
+  - I would not believe
+  - I wouldn't believe
+  - I hope
+  - I'm hoping
+  - I am hoping
+  - I'd hope
+  - I would hope
+  - I'm not hoping
+  - I am not hoping
+  - I wouldn't hope
+  - I argue
+  - I would argue
+  - I'd argue
+  - I'm arguing
+  - I am arguing
+  - I wouldn't argue
+  - I would not argue
+  - I am not arguing
+  - I'm not arguing
+  - I contend
+  - I am contending
+  - I'm contending
+  - I would contend
+  - I'd contend
+  - I am not contending
+  - I'm not contending
+  - I would not contend
+  - I wouldn't contend
+  - I say
+  - I am saying
+  - I'm saying
+  - I would say
+  - I'd say
+  - I am not saying
+  - I'm not saying
+  - I would not say
+  - I wouldn't say
+  - I fear
+  - I would fear
+  - I'd fear
+  - I don't fear
+  - I would not fear
+  - I wouldn't fear
+  - I understand
+  - I would understand
+  - I'd understand
+  - I don't understand
+  - I'm on board
+  - I'm not on board
+  - I would be on board
+  - I'd be on board
+  - I would not be on board
+  - I wouldn't be on board
+First-Person Reference Keyword Check:
+  - I
+  - Me
+  - We
+  - Us
+  - Let's
+  - lets
+  - My
+  - Mine
+  - Our
+  - Ours
+  - Myself
+  - Ourselves
+Second-Person Reference Keyword Check:
+  - you
+  - your
+  - yours
+  - yourself
+  - yourselves
+Common Opinionated Phrases Keyword Check:
+  - is imperative
+  - are imperative
+  - "'re imperative"
+  - "'s imperative"
+  - is not imperative
+  - "'s not imperative"
+  - "n't imperative"
+  - are not imperative
+  - is critical
+  - are critical
+  - "'re critical"
+  - "'s critical"
+  - is not critical
+  - "'s not critical"
+  - "n't critical"
+  - are not critical
+  - is important
+  - are important
+  - "'re important"
+  - "'s important"
+  - is not important
+  - "'s not important"
+  - "n't important"
+  - are not important
+  - is necessary
+  - are necessary
+  - "'re necessary"
+  - "'s necessary"
+  - is not necessary
+  - "'s not necessary"
+  - "n't necessary"
+  - are not necessary
+  - is advisable
+  - are advisable
+  - "'re advisable"
+  - "'s advisable"
+  - is not advisable
+  - "'s not advisable"
+  - "n't advisable"
+  - are not advisable
+  - is a good idea
+  - are a good idea
+  - "'re a good idea"
+  - "'s a good idea"
+  - is not a good idea
+  - "'s not a good idea"
+  - "n't a good idea"
+  - are not a good idea
+  - is best
+  - are best
+  - "'re best"
+  - "'s best"
+  - is not best
+  - "'s not best"
+  - "n't best"
+  - are not best
+  - makes sense
+  - make sense
+  - made sense
+  - is great
+  - are great
+  - "'re great"
+  - "'s great"
+  - is not great
+  - "'s not great"
+  - "n't great"
+  - are not great
+  - is wise
+  - are wise
+  - "'re wise"
+  - "'s wise"
+  - is not wise
+  - "'s not wise"
+  - "n't wise"
+  - are not wise
+  - is essential
+  - are essential
+  - "'re essential"
+  - "'s essential"
+  - is not essential
+  - "'s not essential"
+  - "n't essential"
+  - are not essential
+  - is worthwhile
+  - are worthwhile
+  - "'re worthwhile"
+  - "'s worthwhile"
+  - is not worthwhile
+  - "'s not worthwhile"
+  - "n't worthwhile"
+  - are not worthwhile
+  - Hopefully
+Using Perhaps:
+  - perhaps
+Using Maybe:
+  - maybe
+Using Please:
+  - please
+Using Should:
+  - should
+Using Must:
+  - must
+Using Need:
+  - need
+Using Ought:
+  - ought
+precedence:
+  Starts with Verb Check: 13
+  First-Person Opinionated Phrase Keyword Check: 12
+  Common Opinionated Phrases Keyword Check: 11
+  Using Should: 10
+  Using Must: 9
+  Using Need: 8
+  Using Ought: 7
+  First-Person Reference Keyword Check: 6
+  Second-Person Reference Keyword Check: 5
+  Using Please: 4
+  Using Maybe: 3
+  Using Perhaps: 2
+  Command Check: 1
