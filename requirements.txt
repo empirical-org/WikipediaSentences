@@ -59,7 +59,7 @@ overrides==1.9
 packaging==19.0
 pandas==0.24.2
 parsimonious==0.8.1
-Pillow==6.0.0
+Pillow==8.1.1
 plac==0.9.6
 pluggy==0.12.0
 preshed==2.0.1
