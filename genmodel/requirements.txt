@@ -41,7 +41,7 @@ pyaml==17.12.1
 pycryptodomex==3.6.4
 Pygments==2.2.0
 python-dateutil==2.7.3
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.0
 requests==2.19.1
 semver==2.8.1
