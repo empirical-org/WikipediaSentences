@@ -39,7 +39,7 @@ psycopg2==2.7.5
 ptyprocess==0.6.0
 pyaml==17.12.1
 pycryptodomex==3.6.4
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.7.3
 PyYAML==3.13
 pyzmq==17.1.0
